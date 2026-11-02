@@ -1,0 +1,62 @@
+# ═════════════════════════════════════════════════════════════
+#  ESTO ES UN EJEMPLO (búsqueda de community manager / marketing).
+#  Cambialo por lo tuyo: son solo términos de búsqueda.
+#  No hace falta tocar nada de código.
+# ═════════════════════════════════════════════════════════════
+
+# Términos que se consultan en Computrabajo, Bumeran, LinkedIn e Indeed.
+# Poné los de tu rubro (ej: "desarrollador python", "diseñador ux",
+# "contador", "enfermero", lo que busques).
+terminos:
+  - community manager
+  - social media manager
+  - analista de marketing digital
+  - content manager
+  - analista de contenidos
+  - comunicación digital
+  - comunicación en medios digitales
+  - comunicador digital
+  - periodismo digital
+  - medios digitales
+  - coordinador deportivo
+  - coordinacion deportiva
+  - eventos deportivos
+  - sports coordinator
+  - sports operations coordinator
+
+# Ventana de captura, en horas. El scraper corre 1 vez por día;
+# 48 h + deduplicación evita perder avisos que un portal datea sólo
+# como "ayer" sin hora exacta.
+ventana_horas: 48
+
+# Portales activos. Poné false para desactivar uno.
+portales:
+  bumeran: true
+  computrabajo: true
+  weremoto: true
+  linkedin: true          # best-effort: si LinkedIn bloquea, se registra y se sigue
+  indeed: true            # best-effort: Indeed bloquea seguido; se registra y se sigue
+
+# WeRemoto se navega por categoría, no por término de búsqueda.
+# Se traen estas categorías y después se filtran por las palabras clave de abajo.
+weremoto:
+  categorias:
+    - marketing
+    - contenido
+  palabras_clave:          # el aviso de WeRemoto se conserva si el título/tags/descripción menciona alguna
+    - community
+    - social media
+    - content
+    - contenido
+    - marketing
+    - comunicaci
+    - redes sociales
+    - medios digitales
+    - periodismo
+
+# Indeed: una búsqueda por cada ubicación y, si incluir_remotos es true,
+# otra sólo de avisos remotos (sin ubicación).
+indeed:
+  ubicaciones:
+    - Buenos Aires
+  incluir_remotos: true
