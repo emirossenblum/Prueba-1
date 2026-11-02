@@ -35,16 +35,6 @@ frases_excluyentes:
     - "google adwords"
     - "certificacion google ads"
 
-  camara:
-    - "frente a camara"
-    - "frente a la camara"
-    - "presentar a camara"
-    - "presentarse a camara"
-    - "salir en camara"
-    - "grabar videos"
-    - "vlog"
-    - "creador de contenido audiovisual frente a"
-
   ventas:
     - "ventas"
     - "prospeccion"
@@ -60,7 +50,6 @@ frases_excluyentes:
     - "carrera universitaria completa excluyente"
     - "carrera de grado completa excluyente"
     - "graduado universitario excluyente"
-    - "profesional graduado excluyente"
     - "titulo de grado (excluyente)"
 
 # Frases que, si aparecen CERCA de una frase excluyente (± 70 caracteres),
@@ -125,6 +114,30 @@ ubicaciones_permitidas:
   - boulogne
   - san andres
   - villa adelina
+  - el talar
+  - General Pacheco
+  - Pilar
+  - Don Torcuato
+  - Florida Oeste
+  - Benavídez
+  - Villa Ballester
+  - San Martín
+  - José León Suárez
+  - Garín
+   # ── GBA sur/oeste (fuera de "GBA norte") ──
+  - "la matanza"
+  - lomas de zamora
+  - lanus
+  - avellaneda
+  - quilmes
+  - berazategui
+  - "florencio varela"
+  - moron
+  - ituzaingo
+  - merlo
+  - "moreno, buenos aires"
+  - "san justo"
+  - ezeiza
 
 # Tienen prioridad sobre la lista de arriba: si la ubicación menciona alguna
 # de estas, el aviso se descarta aunque también diga "Argentina" o "Buenos Aires".
@@ -163,20 +176,7 @@ ubicaciones_excluidas:
   - parana
   - "concordia"
   - "santa rosa"
-  # GBA sur/oeste (fuera de "GBA norte")
-  - "la matanza"
-  - lomas de zamora
-  - lanus
-  - avellaneda
-  - quilmes
-  - berazategui
-  - "florencio varela"
-  - moron
-  - ituzaingo
-  - merlo
-  - "moreno, buenos aires"
-  - "san justo"
-  - ezeiza
+ 
 
 # Palabras que marcan un aviso como remoto aunque la ubicación diga otra cosa.
 indicadores_remoto:
