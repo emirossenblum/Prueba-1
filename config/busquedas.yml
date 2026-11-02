@@ -8,21 +8,27 @@
 # Poné los de tu rubro (ej: "desarrollador python", "diseñador ux",
 # "contador", "enfermero", lo que busques).
 terminos:
-  - community manager
-  - social media manager
-  - analista de marketing digital
-  - content manager
-  - analista de contenidos
-  - comunicación digital
-  - comunicación en medios digitales
-  - comunicador digital
-  - periodismo digital
-  - medios digitales
-  - coordinador deportivo
-  - coordinacion deportiva
-  - eventos deportivos
-  - sports coordinator
-  - sports operations coordinator
+  - periodista deportivo
+  - cronista
+  - redactor
+  - operador de sonido
+  - comunicador
+  - periodista
+  - productor periodístico
+  - editor web
+  - cobertura
+  - fútbol
+  - operador de audio
+  - Operador de consola
+  - Operador de estudio
+  - Operador de radio
+  - Productor radial
+  - Operador de aire
+  - Operador técnico
+  - Técnico de sonido
+  - Sonidista
+  - Productor de transmisiones deportivas
+  - Transmisiones deportivas
 
 # Ventana de captura, en horas. El scraper corre 1 vez por día;
 # 48 h + deduplicación evita perder avisos que un portal datea sólo
