@@ -1,5 +1,5 @@
 {
-  "inicio": "2026-11-02T19:35:15.402510",
+  "inicio": "2026-11-03T11:37:48.244321",
   "ventana_horas": 48,
   "terminos": [
     "periodista deportivo",
@@ -32,17 +32,39 @@
     },
     "computrabajo": {
       "estado": "ok",
-      "encontrados": 69,
+      "encontrados": 70,
       "errores": []
     },
     "weremoto": {
-      "estado": "ok",
-      "encontrados": 168,
-      "errores": []
+      "estado": "error",
+      "encontrados": 0,
+      "errores": [
+        "periodista deportivo: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "cronista: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "redactor: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "operador de sonido: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "comunicador: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "periodista: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "productor periodístico: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "editor web: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "cobertura: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "fútbol: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "operador de audio: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "Operador de consola: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "Operador de estudio: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "Operador de radio: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "Productor radial: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "Operador de aire: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "Operador técnico: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "Técnico de sonido: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "Sonidista: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "Productor de transmisiones deportivas: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404",
+        "Transmisiones deportivas: Administrativo: HTTP 404; Redacción / Contenido: HTTP 404; Atención al Cliente: HTTP 404; Data entry: HTTP 404; Otros: HTTP 404"
+      ]
     },
     "linkedin": {
       "estado": "ok",
-      "encontrados": 163,
+      "encontrados": 171,
       "errores": []
     },
     "indeed": {
@@ -73,8 +95,8 @@
       ]
     }
   },
-  "fin": "2026-11-02T19:43:30.278972",
-  "nuevos_totales": 138,
-  "publicados": 87,
-  "descartados": 51
+  "fin": "2026-11-03T11:45:51.314338",
+  "nuevos_totales": 45,
+  "publicados": 31,
+  "descartados": 14
 }
