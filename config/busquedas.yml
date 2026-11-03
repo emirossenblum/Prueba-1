@@ -47,17 +47,18 @@ portales:
 # Se traen estas categorías y después se filtran por las palabras clave de abajo.
 weremoto:
   categorias:
-    - marketing
-    - contenido
+    -  Administrativo
+    - Redacción / Contenido
+    - Atención al Cliente
+    - Data entry
+    - Otros
   palabras_clave:          # el aviso de WeRemoto se conserva si el título/tags/descripción menciona alguna
-    - community
-    - social media
-    - content
-    - contenido
-    - marketing
-    - comunicaci
-    - redes sociales
-    - medios digitales
+    - asistente
+    - redactor
+    - asesor
+    - productor
+    - editor web
+    - periodista
     - periodismo
 
 # Indeed: una búsqueda por cada ubicación y, si incluir_remotos es true,
@@ -65,4 +66,6 @@ weremoto:
 indeed:
   ubicaciones:
     - Buenos Aires
+    - Argentina
+    
   incluir_remotos: true
