@@ -1,6 +1,193 @@
 [
   {
     "portal": "computrabajo",
+    "portal_id": "7F54F414686493C761373E686DCF3405",
+    "titulo": "Operador de Piletas, Cargas y Descargas",
+    "empresa": "Importante empresa del sector",
+    "ubicacion": "Neuquen, Neuquén",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-04T08:42:57",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-de-piletas-cargas-y-descargas-en-neuquen-7F54F414686493C761373E686DCF3405",
+    "descripcion": "Buscar empresas Las mejores empresas para trabajar en Argentina",
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "computrabajo:7F54F414686493C761373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquen, Neuquén»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "5C8092D86C2130DD61373E686DCF3405",
+    "titulo": "Operador de Planta de Combustible Mayorista",
+    "empresa": "Importante empresa del sector",
+    "ubicacion": "Añelo, Neuquén",
+    "modalidad": null,
+    "salario": "$ 11.111",
+    "fecha_publicacion": "2026-11-04T07:42:57",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-de-planta-de-combustible-mayorista-en-anelo-5C8092D86C2130DD61373E686DCF3405",
+    "descripcion": "Buscar empresas Las mejores empresas para trabajar en Argentina",
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "computrabajo:5C8092D86C2130DD61373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Añelo, Neuquén»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "241DD84445A85F6A61373E686DCF3405",
+    "titulo": "Operador de Automatismos de Producción",
+    "empresa": "Laboratorio de Hemoderivados UNC",
+    "ubicacion": "Córdoba, Córdoba",
+    "modalidad": null,
+    "salario": "$ 1.590.000",
+    "fecha_publicacion": "2026-11-04T07:42:57",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-de-automatismos-de-produccion-en-cordoba-241DD84445A85F6A61373E686DCF3405",
+    "descripcion": "Operador de Automatismos de Producción (Oficial Especializado en Operación de Automatismos de Producción) El Laboratorio de Hemoderivados incorpora Oficial Especializado en Operación de Automatismos de Producción (cargo equivalente a categoría 5), para incorporarse al área de Producción, en el Departamento de Operación de Automatismos de Producción. Somos un Laboratorio Farmacéutico Público sin fines de lucro, perteneciente a la Universidad Nacional de Córdoba. Con el objetivo de realizar el monitoreo y brindar soporte técnico en operaciones automatizadas, se desarrollarán las siguientes tareas: - Monitorear las operaciones automatizadas para verificar la correcta ejecución del automatismo. - Realizar el levantamiento y resolución de alertas y alarmas en proceso. - Imprimir informes gráficos y batch record de las operaciones, asegurando el registro de lote. - Colaborar y asistir a las áreas de proyecto en la puesta en marcha de nuevas automatizaciones. - Retroalimentar el sistema con información y experiencia para mejorar la forma de programar y automatizar. - Intervenir sobre hardware, realizando reparación de conexiones y reemplazo de sensores y válvulas. - Modificar programaciones para mejorar los procesos automáticos. - Realizar mantenimiento de software y cambio de parámetros para mejorar los procesos automáticos. Formación requerida - Ingeniero/a Electrónico/a, Licenciado/a en Mecatrónica o Técnico/a Universitario/a o Superior con especialidad afín a la automatización industrial (excluyente). - Posgrado en Automatización (deseable). Experiencia laboral - Acreditar al menos 2 años de experiencia en programación de automatismos en equipos industriales (excluyente). - Experiencia en posiciones vinculadas a Ingeniería de Procesos/Automatismos o programación de sistemas automatizados (deseable). Conocimientos requeridos - Programación de PLC Siemens Step 7 (TIA Portal) (excluyente). - Conocimiento y manejo de Profinet, Profibus y WinCC (excluyente). - Conocimiento de sistemas de control de procesos SIMATIC PCS7 (deseable). - Gestión de Proyectos (deseable). - Indicadores (deseable). - Validación de Software GAMP5 (deseable). - Inglés intermedio/avanzado (deseable). Perfil requerido - Trabajo en equipo. - Comunicación. - Flexibilidad. - Compromiso. - Capacidad para el análisis y toma de decisiones. - Planificación y organización. - Liderazgo. Jornada laboral: 7 horas diarias, de lunes a viernes, dentro de la franja horaria de 7:00 a 18:00 hs. Por favor, adjuntar CV en formato PDF en su perfil (no imagen). SOLO SE RECIBIRÁN POSTULACIONES HASTA EL DÍA 2/10/26 INCLUSIVE. -Requerimientos- Educación mínima: Universitario 2 años de experiencia Palabras clave: operator, operario, operator, production, produce, fabricacion, manufactoring, elaboracion, making, manufactura, produccion",
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "computrabajo:241DD84445A85F6A61373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "AC2DC79C588D912361373E686DCF3405",
+    "titulo": "Operador/a de linea de producción (Industria Alimenticia)",
+    "empresa": "Adecco Argentina S.A.",
+    "ubicacion": "Mar del Plata, Buenos Aires",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-04T00:42:57",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operadora-de-linea-de-produccion-industria-alimenticia-en-mar-del-plata-AC2DC79C588D912361373E686DCF3405",
+    "descripcion": "BUSCAMOS TALENTOS, ¡EN ADECCO TE ESTAMOS BUSCANDO! Si te interesa ser OPERADOR/A DE LINEA DE PRODUCCIÓN en el equipo de nuestro cliente, IMPORTANTE EMPRESA DE ALIMENTOS ¡desafíate a vos mismo y crea tu futuro! ¿CÓMO ES EL DÍA A DÍA DE LA POSICIÓN? Controlar y operar integralmente la línea de producción, asegurando los estándares de seguridad, calidad y eficiencia Ejecutar rutinas de inspección, limpieza técnica, lubricación y ajustes básicos para prevenir averías. Detectar tempranamente anomalías, diagnóstico de fallas de primer nivel y resolución de paradas menores. Dar seguimiento de parámetros críticos del proceso Participar activamente en el análisis de causa raíz y propuestas de mejora para los equipos. TENEMOS UN DESAFÍO PARA QUIENES Posean formación técnica en electricidad, mecánica o electromecánica (excluyente) Posean experiencia en empresas productivas Posean experiencia trabajando con líneas automatizadas · TRANSFORMA TU TALENTO CON NUESTRA PROPUESTA Jornada laboral: de 6 a 14hs - 14 a 22 hs - 22 a 6 am Zona de trabajo: Zona Puerto · ¿POR QUÉ SUMARTE? Posibilidad de desarrollo en una compañía líder del sector. · Somos Adecco Argentina una compañía con más de 30 años de experiencia que conecta empresas con talentos, brindando soluciones integrales de Recursos Humanos y buscamos talentos, ¡COMO VOS! Nuestro compromiso, es la diversidad e igualdad de oportunidades somos una empresa inclusiva. Cuando sos parte de nuestros procesos, solo cuentan tus méritos, logros y capacidades, lo hacemos pensando en vos como persona. Participar de nuestros procesos de selección no tiene ningún costo para vos candidato/a, trabajar con vos es parte de nuestro compromiso y tarea con la comunidad. Postulate y participa en una oferta de empleo nuestra. El empleador sólo podrá solicitarle la información estrictamente necesaria para el desempeño en el trabajo que se ofrece. Ciudad de Buenos Aires: ley de búsqueda laboral equitativa - Ley 6471. -Requerimientos- Educación mínima: Secundaria años de experiencia Palabras clave: operator, operario, operator, production, produce, fabricacion, manufactoring, elaboracion, making, manufactura, produccion, industry, industrial, industria",
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "computrabajo:AC2DC79C588D912361373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Mar del Plata, Buenos Aires»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4485044314",
+    "titulo": "Asesor comercial",
+    "empresa": "BURNI inversiones SA",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-04T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/asesor-comercial-at-burni-inversiones-sa-4485044314",
+    "descripcion": null,
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "linkedin:4485044314",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4484280929",
+    "titulo": "Junior Emulation Engineer",
+    "empresa": "Celero Communications",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-04T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/junior-emulation-engineer-at-celero-communications-4484280929",
+    "descripcion": null,
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "linkedin:4484280929",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4485075736",
+    "titulo": "Analista Conciliaciones y Auditorias Patrimoniales y Resultados (ex Big 4, No Finanzas y Residir en Córdoba Excluy)",
+    "empresa": "HH Selección",
+    "ubicacion": "Córdoba y alrededores, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-04T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/analista-conciliaciones-y-auditorias-patrimoniales-y-resultados-ex-big-4-no-finanzas-y-residir-en-c%C3%B3rdoba-excluy-at-hh-selecci%C3%B3n-4485075736",
+    "descripcion": null,
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "linkedin:4485075736",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba y alrededores, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4487201215",
+    "titulo": "Vendedor/a Convencional de Autos 0km y Usados",
+    "empresa": "Grupo Pesado Castro",
+    "ubicacion": "Rosario, Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-04T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/vendedor-a-convencional-de-autos-0km-y-usados-at-grupo-pesado-castro-4487201215",
+    "descripcion": null,
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "linkedin:4487201215",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "A6434223DBD09AC161373E686DCF3405",
+    "titulo": "Operador/a de grua (Zona Salta)",
+    "empresa": "Randstad Argentina",
+    "ubicacion": "Salta, Salta",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-03T23:42:57",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operadora-de-grua-zona-salta-en-salta-A6434223DBD09AC161373E686DCF3405",
+    "descripcion": "¡Esta propuesta te puede interesar!Operador/a de Grúa · Nos encontramos en la búsqueda de un/a operador/a de grúa para una importante empresa minera para trabajar en la provincia de Salta. La misión del puesto es operar grúas telescópicas de 120 toneladas o superior para ejecutar maniobras de izaje dentro de proyectos mineros e industriales, garantizando el cumplimiento de los planes de izaje, la seguridad de las operaciones y la correcta manipulación de cargas, contribuyendo al desarrollo seguro y eficiente de las actividades del proyecto. · Principales Responsabilidades: · Operar la grúa telescópica de 120 toneladas de acuerdo con los planes de izaje aprobados. Ejecutar maniobras de levantamiento y movimiento de cargas en coordinación con el/la rigger o señalero/a. Posicionar, nivelar y estabilizar la grúa antes de cada operación de izaje. Realizar inspecciones preoperacionales del equipo antes de su utilización. Verificar el correcto funcionamiento de los sistemas de seguridad e indicadores de carga. Reportar condiciones anormales, fallas mecánicas o situaciones inseguras detectadas durante la operación. Asegurar y resguardar el equipo al finalizar las actividades diarias. Mantener comunicación permanente con riggers, supervisores/as y personal involucrado en las maniobras de izaje. Detener inmediatamente cualquier maniobra que represente un riesgo para las personas, equipos o instalaciones. Brindar apoyo en tareas generales de soporte operativo, organización de materiales, limpieza del área de trabajo y apoyo logístico básico cuando sea requerido operacionalmente. · Requisitos: · Formación: Secundario completo (excluyente). Se valorará contar con formación terciaria o técnica en Mecánica, Electromecánica o carreras afines. Experiencia: Experiencia previa mínima comprobable de 3 años operando grúas telescópicas de alta capacidad, con experiencia excluyente en grúas de 120 toneladas o más. Es deseable contar con experiencia en proyectos mineros o industriales. Conocimientos técnicos: Conocimientos deseables en interpretación de tablas de carga (Load Charts), configuración de pluma (Boom Configuration) y uso de estabilizadores (Outriggers). Conocimiento en gestión de contrapesos (Counterweights), sistemas LMI e indicadores de carga, límites operativos por velocidad del viento e inspecciones preoperacionales de grúas móviles. Licencias: Contar con licencia de conducir (excluyente) y licencia o certificación vigente para la operación de grúas móviles según la normativa aplicable. Idiomas: Inglés (no excluyente). Edad: Entre 18 y 40 años. Disponibilidad horaria: Disponibilidad para trabajar bajo modalidad de turnos rotativos, roster 14x14. Residencia: Residir en la provincia de Salta (excluyente). · Condiciones de Contratación: · Modalidad de contratación: Contrato a plazo fijo (1 año) con encuadre bajo régimen y escalas salariales del convenio AOMA. Lugar de trabajo: Provincia de Salta. · Si consideras que reunís los requisitos para el puesto y te gustan los desafíos, no lo dudes. ¡Postulate! · Sobre Randstad · En Randstad nos moviliza ayudar a las personas y a las organizaciones a desarrollar todo su potencial. Ese es el compromiso que asumimos como compañía en todo el mundo, un compromiso que nos impulsa a ir más allá para lograr que nuestros clientes y candidatos alcancen el éxito. ¿Cómo lo hacemos?, combinando nuestra pasión por las personas con el poder de la tecnología, creando experiencias más humanas, que nos permitan ser una fuente de inspiración y apoyo para quienes nos eligen. Porque estamos convencidos de que mejores personas hacen mejores empresas.-Requerimientos- Educación mínima: Secundaria 2 años de experiencia Palabras clave: operator, operario, operator, crane, grua, area",
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "computrabajo:A6434223DBD09AC161373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Salta, Salta»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "F4A0C8650AB851F961373E686DCF3405",
+    "titulo": "Operador/a de grua (Zona Catamarca)",
+    "empresa": "Randstad Argentina",
+    "ubicacion": "San Fernando, Catamarca",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-03T23:42:57",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operadora-de-grua-zona-catamarca-en-san-fernando-F4A0C8650AB851F961373E686DCF3405",
+    "descripcion": "¡Esta propuesta te puede interesar!Operador/a de Grúa · Nos encontramos en la búsqueda de un/a operador/a de grúa para una importante empresa minera para trabajar en la provincia de Catamarca. La misión del puesto es operar grúas telescópicas de 120 toneladas o superior para ejecutar maniobras de izaje dentro de proyectos mineros e industriales, garantizando el cumplimiento de los planes de izaje, la seguridad de las operaciones y la correcta manipulación de cargas, contribuyendo al desarrollo seguro y eficiente de las actividades del proyecto. · Principales Responsabilidades: · Operar la grúa telescópica de 120 toneladas de acuerdo con los planes de izaje aprobados. Ejecutar maniobras de levantamiento y movimiento de cargas en coordinación con el/la rigger o señalero/a. Posicionar, nivelar y estabilizar la grúa antes de cada operación de izaje. Realizar inspecciones preoperacionales del equipo antes de su utilización. Verificar el correcto funcionamiento de los sistemas de seguridad e indicadores de carga. Reportar condiciones anormales, fallas mecánicas o situaciones inseguras detectadas durante la operación. Asegurar y resguardar el equipo al finalizar las actividades diarias. Mantener comunicación permanente con riggers, supervisores/as y personal involucrado en las maniobras de izaje. Detener inmediatamente cualquier maniobra que represente un riesgo para las personas, equipos o instalaciones. Brindar apoyo en tareas generales de soporte operativo, organización de materiales, limpieza del área de trabajo y apoyo logístico básico cuando sea requerido operacionalmente. · Requisitos: · Formación: Secundario completo (excluyente). Se valorará contar con formación terciaria o técnica en Mecánica, Electromecánica o carreras afines. Experiencia: Experiencia previa mínima comprobable de 3 años operando grúas telescópicas de alta capacidad, con experiencia excluyente en grúas de 120 toneladas o más. Es deseable contar con experiencia en proyectos mineros o industriales. Conocimientos técnicos: Conocimientos deseables en interpretación de tablas de carga (Load Charts), configuración de pluma (Boom Configuration) y uso de estabilizadores (Outriggers). Conocimiento en gestión de contrapesos (Counterweights), sistemas LMI e indicadores de carga, límites operativos por velocidad del viento e inspecciones preoperacionales de grúas móviles. Licencias: Contar con licencia de conducir (excluyente) y licencia o certificación vigente para la operación de grúas móviles según la normativa aplicable. Idiomas: Inglés (no excluyente). Edad: Entre 18 y 40 años. Disponibilidad horaria: Disponibilidad para trabajar bajo modalidad de turnos rotativos, roster 14x14. Residencia: Residir en la provincia de Catamarca (excluyente). · Condiciones de Contratación: · Modalidad de contratación: Contrato a plazo fijo (1 año) con encuadre bajo régimen y escalas salariales del convenio AOMA. Lugar de trabajo: Provincia de Catamarca. · Si consideras que reunís los requisitos para el puesto y te gustan los desafíos, no lo dudes. ¡Postulate! · Sobre Randstad · En Randstad nos moviliza ayudar a las personas y a las organizaciones a desarrollar todo su potencial. Ese es el compromiso que asumimos como compañía en todo el mundo, un compromiso que nos impulsa a ir más allá para lograr que nuestros clientes y candidatos alcancen el éxito. ¿Cómo lo hacemos?, combinando nuestra pasión por las personas con el poder de la tecnología, creando experiencias más humanas, que nos permitan ser una fuente de inspiración y apoyo para quienes nos eligen. Porque estamos convencidos de que mejores personas hacen mejores empresas.-Requerimientos- Educación mínima: Secundaria 2 años de experiencia Palabras clave: operator, operario, operator, crane, grua, area",
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "computrabajo:F4A0C8650AB851F961373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Fernando, Catamarca»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "A8AD5D2F3E3083C861373E686DCF3405",
+    "titulo": "Radio operador",
+    "empresa": "BENITO ROGGIO E HIJOS SA -TECSAN INGENIERIA AMBIENTAL S.A. U",
+    "ubicacion": "Neuquen, Neuquén",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-03T16:42:54",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-radio-operador-en-neuquen-A8AD5D2F3E3083C861373E686DCF3405",
+    "descripcion": "¡En Cliba Neuquén estamos buscando Radio Operador! Principales responsabilidades: Ejecutar acciones de control y seguimiento de las unidades móviles pesadas y livianas que se encuentran operando, a través del sistema de radio Recepcionar, asentar y comunicar al sector de Mantenimiento, los pedidos de auxilio en ruta para disminuir los tiempos muertos de operación. Recepcionar los reclamos realizados telefónicamente por el contribuyente o el comitente que no hayan sido atendidos por el/la Recepcionista o el Asistente de Gerencia y dar curso de la solicitud al Supervisor de Operaciones a cargo del área de interés con el propósito de dar satisfacción inmediata al cliente. Mantener actualizado el sistema informático de Operaciones con todos los parámetros intervinientes en el sector; a fin de garantizar la disponibilidad de datos claves, la confección oportuna de reportes y la trazabilidad del servicio. Realizar las estadísticas y emitir informes de los indicadores referentes a la operación tales como: consumo de materiales, tonelajes, reclamos, pedidos de auxilio, consumo de combustible, listado de rutas, etc.; con el objeto de generar una base de datos actualizada que facilite la toma de decisiones. Accionar ante emergencias y contingencias de orden general. Requisitos: Secundario Técnico. 2 años de experiencia profesional en roles similares. Conocimientos Planillas de cálculo, Procesador de texto. Conocimiento de políticas de Seguridad e Higiene. · Lugar de trabajo: Neuquén. -Requerimientos- Educación mínima: Secundaria años de experiencia Palabras clave: operator, operario, operator",
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "computrabajo:A8AD5D2F3E3083C861373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquen, Neuquén»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
     "portal_id": "6E2CEEEE45C6EF6461373E686DCF3405",
     "titulo": "Operador de Control de Sólidos",
     "empresa": "Importante empresa del sector",
@@ -48,6 +235,176 @@
     "id": "computrabajo:5F849F233917A7B761373E686DCF3405",
     "motivos_descarte": [
       "ventas: «ventas»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4486052900",
+    "titulo": "Video Editor",
+    "empresa": "Formulated Automation",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-03T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/video-editor-at-formulated-automation-4486052900",
+    "descripcion": null,
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "linkedin:4486052900",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4486065521",
+    "titulo": "Marketing Assistant",
+    "empresa": "Formulated Automation",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-03T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/marketing-assistant-at-formulated-automation-4486065521",
+    "descripcion": null,
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "linkedin:4486065521",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4484682474",
+    "titulo": "Gerente de Producto (Turismo)",
+    "empresa": "Avalian",
+    "ubicacion": "Rosario, Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-03T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/gerente-de-producto-turismo-at-avalian-4484682474",
+    "descripcion": null,
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "linkedin:4484682474",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4486098248",
+    "titulo": "Vendedor / Mar del Plata, Buenos Aires.",
+    "empresa": "GRUPO CETROGAR",
+    "ubicacion": "Mar del Plata, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-03T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/vendedor-mar-del-plata-buenos-aires-at-grupo-cetrogar-4486098248",
+    "descripcion": null,
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "linkedin:4486098248",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Mar del Plata, Provincia de Buenos Aires, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4484679671",
+    "titulo": "GERENTE CONSTRUCCION - LNG",
+    "empresa": "YPF SA",
+    "ubicacion": "Provincia de Río Negro, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-03T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/gerente-construccion-lng-at-ypf-4484679671",
+    "descripcion": null,
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "linkedin:4484679671",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Provincia de Río Negro, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4486071378",
+    "titulo": "AI Performance Video Designer",
+    "empresa": "Formulated Automation",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-03T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/ai-performance-video-designer-at-formulated-automation-4486071378",
+    "descripcion": null,
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "linkedin:4486071378",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4486071983",
+    "titulo": "Analista Procesos Técnica Residencial",
+    "empresa": "Claro Argentina",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-03T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/analista-procesos-t%C3%A9cnica-residencial-at-claro-argentina-4486071983",
+    "descripcion": null,
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "linkedin:4486071983",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4343832909",
+    "titulo": "Banco de Talentos - Región NOA (Tucumán, Salta y Jujuy)",
+    "empresa": "Scania Argentina",
+    "ubicacion": "Palpalá, Jujuy, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-03T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/banco-de-talentos-regi%C3%B3n-noa-tucum%C3%A1n-salta-y-jujuy-at-scania-argentina-4343832909",
+    "descripcion": null,
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "linkedin:4343832909",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Palpalá, Jujuy, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4486316069",
+    "titulo": "Airports Sales Executive - Córdoba",
+    "empresa": "ASSIST CARD",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-03T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/airports-sales-executive-c%C3%B3rdoba-at-assist-card-4486316069",
+    "descripcion": null,
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "linkedin:4486316069",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4487065571",
+    "titulo": "O&M Technician",
+    "empresa": "Wärtsilä",
+    "ubicacion": "Salta, Salta, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-03T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/o-m-technician-at-w%C3%A4rtsil%C3%A4-4487065571",
+    "descripcion": null,
+    "capturado": "2026-11-04T11:41:54.566545",
+    "id": "linkedin:4487065571",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Salta, Salta, Argentina»"
     ]
   },
   {
@@ -2871,109 +3228,6 @@
     "id": "bumeran:1118488196",
     "motivos_descarte": [
       "ventas: «ventas»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "185C8F1F491C7D7361373E686DCF3405",
-    "titulo": "Analista de Marketing",
-    "empresa": "GRUPO PESADO CASTRO",
-    "ubicacion": "Rosario, Santa Fe",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-20T12:36:10",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-marketing-en-rosario-185C8F1F491C7D7361373E686DCF3405",
-    "descripcion": "¡Súmate a Grupo Pesado Castro! Buscamos incorporar un/a Analista de Marketing para formar parte de nuestro equipo. · Nos orientamos a perfiles creativos y analíticos, con marcada orientación a los resultados, capacidad de planificación y organización, proactividad y buenas habilidades interpersonales. Valoramos especialmente la autogestión, la atención al detalle y el interés por el marketing digital, la publicidad y el análisis de resultados. · Responsabilidades: Elaborar reportes de gestión y realizar el seguimiento de indicadores del área Supervisar campañas publicitarias del concesionario y realizar el seguimiento de sus resultados Supervisar la gestión de leads en el CRM, controlando tiempos de respuesta, seguimientos, registros y ventas de los asesores comerciales Actualizar la página web y el catálogo de vehículos usados Colaborar en la planificación, organización y ejecución de eventos. · Requisitos: Experiencia en posiciones similares (preferentemente en el rubro automotor) Formación en Marketing, Publicidad o carreras afines Buen manejo de Excel (excluyente) Licencia de conducir vigente (excluyente) Conocimientos básicos de Google Ads Manejo de Google Sheets y Looker Studio (deseable) · Se ofrece: Incorporación a una empresa sólida y reconocida en el rubro automotor Excelente clima de trabajo y acompañamiento constante Oportunidades de aprendizaje y desarrollo profesional · Postúlate adjuntando tu CV actualizado. ¡Te estamos esperando!. -Requerimientos- Educación mínima: Secundaria 2 años de experiencia Licencias de conducir: B1 Palabras clave: analyst, mercadotecnia, marketing, mercadeo",
-    "capturado": "2026-10-20T15:35:28.643184",
-    "id": "computrabajo:185C8F1F491C7D7361373E686DCF3405",
-    "motivos_descarte": [
-      "ventas: «ventas»",
-      "ubicacion fuera de zona: «Rosario, Santa Fe»"
-    ]
-  },
-  {
-    "portal": "bumeran",
-    "portal_id": "2192218",
-    "titulo": "Lic en Comercialización/Marketing",
-    "empresa": "RE/MAX Avenida",
-    "ubicacion": "Buenos Aires, Buenos Aires",
-    "modalidad": "hibrido",
-    "salario": null,
-    "fecha_publicacion": "2026-10-20T10:37:29",
-    "url": "https://www.bumeran.com.ar/empleos/lic-en-comercializacion-marketing-re-max-avenida-2192218.html",
-    "descripcion": "RE/MAX Avenida es una de las oficinas mejor calificadas de la red RE/MAX. Trabajamos con una cultura de alto rendimiento, formación constante y colaboración real entre profesionales.Buscamos perfiles de marketing y comercialización que quieran aplicar su visión estratégica, habilidades comerciales y construcción de marca personal para desarrollarse como Agentes Inmobiliarios.¿Qué buscamos? Profesionales con perfil comercial y mentalidad estratégica. Capacidad de autogestión y organización de objetivos propios. Habilidades de comunicación, persuasión y desarrollo de relaciones. Interés en trabajar con clientes y construir una cartera comercial a largo plazo. Residencia en Villa Urquiza o alrededores.Principales tareas Generación y gestión de oportunidades comerciales. Captación y seguimiento de clientes. Asesoramiento en procesos de compra, venta y alquiler. Desarrollo de marca personal dentro de la red inmobiliaria. Gestión de cartera de clientes y propiedades.¿Qué ofrecemos? Autonomía real para desarrollar tu carrera profesional. Potencial de ingresos altos en dólares según resultados. Capacitación continua en ventas, negociación y real estate. Acompañamiento de líderes y agentes de alto rendimiento. Respaldo de la red RE/MAX, líder mundial en servicios inmobiliarios. Entorno profesional, colaborativo y orientado al crecimiento. Oficina en Villa Urquiza, CABA.Si querés transformar tu perfil comercial en una carrera con proyección real, te invitamos a postularte.",
-    "capturado": "2026-10-20T15:35:28.643184",
-    "id": "bumeran:2192218",
-    "motivos_descarte": [
-      "ventas: «ventas»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4478699137",
-    "titulo": "Analista de Comunicación y Marketing",
-    "empresa": "Randstad Argentina",
-    "ubicacion": "Rosario, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-20T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/analista-de-comunicaci%C3%B3n-y-marketing-at-randstad-argentina-4478699137",
-    "descripcion": null,
-    "capturado": "2026-10-20T15:35:28.643184",
-    "id": "linkedin:4478699137",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4478901174",
-    "titulo": "Analista de Paid Media & Ecommerce",
-    "empresa": "Epsa Moto Oficial",
-    "ubicacion": "Villa Gobernador Gálvez, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-20T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/analista-de-paid-media-ecommerce-at-epsa-moto-oficial-4478901174",
-    "descripcion": null,
-    "capturado": "2026-10-20T15:35:28.643184",
-    "id": "linkedin:4478901174",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Villa Gobernador Gálvez, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4481243362",
-    "titulo": "Coordinador/a Agropecuario/a - Rosario",
-    "empresa": "Fusión Humana",
-    "ubicacion": "Rosario y alrededores",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-20T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/coordinador-a-agropecuario-a-rosario-4481243362",
-    "descripcion": null,
-    "capturado": "2026-10-20T15:35:28.643184",
-    "id": "linkedin:4481243362",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Rosario y alrededores»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4480271728",
-    "titulo": "Bilingual Optimization Agent",
-    "empresa": "Cognizant",
-    "ubicacion": "Buenos Aires, Provincia de Buenos Aires, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-19T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/bilingual-optimization-agent-at-cognizant-4480271728",
-    "descripcion": null,
-    "capturado": "2026-10-20T15:35:28.643184",
-    "id": "linkedin:4480271728",
-    "motivos_descarte": [
-      "ingles_alto: «bilingual»"
     ]
   }
 ]
