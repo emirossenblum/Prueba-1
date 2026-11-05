@@ -72,6 +72,7 @@ frases_excluyentes:
     - "vendedor"
     - "growth"
     - "Empresarial"
+    - "Market"
     
 
 # Frases que, si aparecen CERCA de una frase excluyente (± 70 caracteres),
