@@ -52,6 +52,27 @@ frases_excluyentes:
     - "graduado universitario excluyente"
     - "titulo de grado (excluyente)"
 
+    varios:
+    - "dispatcher"
+    - "experto"
+    - "expert"
+    - "executive"
+    - "marketing"
+    - "finanzas"
+    - "ingeniero"
+    - "ingeniería"
+    - "comercial"
+    - "copywriter"
+    - "Designer"
+    - "management"
+    - "accounting"
+    - "illustrator"
+    - "ai"
+    - "ia"
+    - "vendedor"
+    - "growth"
+    
+
 # Frases que, si aparecen CERCA de una frase excluyente (± 70 caracteres),
 # anulan el descarte. Ej.: "inglés no excluyente", "ventas: no aplica".
 frases_perdon:
