@@ -44,15 +44,6 @@ frases_excluyentes:
     - "cierre de ventas"
     - "cartera de clientes"
     - "cumplimiento de objetivos comerciales"
-
-  titulo_universitario_excluyente:
-    - "titulo universitario excluyente"
-    - "carrera universitaria completa excluyente"
-    - "carrera de grado completa excluyente"
-    - "graduado universitario excluyente"
-    - "titulo de grado (excluyente)"
-
-    varios:
     - "dispatcher"
     - "experto"
     - "expert"
@@ -73,6 +64,13 @@ frases_excluyentes:
     - "growth"
     - "empresarial"
     - "market"
+
+  titulo_universitario_excluyente:
+    - "titulo universitario excluyente"
+    - "carrera universitaria completa excluyente"
+    - "carrera de grado completa excluyente"
+    - "graduado universitario excluyente"
+    - "titulo de grado (excluyente)"
     
 
 # Frases que, si aparecen CERCA de una frase excluyente (± 70 caracteres),
