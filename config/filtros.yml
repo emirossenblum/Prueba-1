@@ -71,8 +71,8 @@ frases_excluyentes:
     - "ia"
     - "vendedor"
     - "growth"
-    - "Empresarial"
-    - "Market"
+    - "empresarial"
+    - "market"
     
 
 # Frases que, si aparecen CERCA de una frase excluyente (± 70 caracteres),
