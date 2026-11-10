@@ -1,5 +1,5 @@
 {
-  "inicio": "2026-11-09T11:40:51.204976",
+  "inicio": "2026-11-10T11:38:46.000414",
   "ventana_horas": 48,
   "terminos": [
     "periodista deportivo",
@@ -27,12 +27,12 @@
   "portales": {
     "bumeran": {
       "estado": "ok",
-      "encontrados": 0,
+      "encontrados": 2,
       "errores": []
     },
     "computrabajo": {
       "estado": "ok",
-      "encontrados": 61,
+      "encontrados": 56,
       "errores": []
     },
     "weremoto": {
@@ -64,9 +64,11 @@
     },
     "linkedin": {
       "estado": "parcial",
-      "encontrados": 136,
+      "encontrados": 140,
       "errores": [
-        "operador de audio: HTTP 429"
+        "periodista: HTTP 429",
+        "Operador de consola: HTTP 429",
+        "Técnico de sonido: HTTP 429"
       ]
     },
     "indeed": {
@@ -97,8 +99,8 @@
       ]
     }
   },
-  "fin": "2026-11-09T11:48:53.285948",
-  "nuevos_totales": 47,
-  "publicados": 38,
-  "descartados": 9
+  "fin": "2026-11-10T11:47:14.845742",
+  "nuevos_totales": 77,
+  "publicados": 63,
+  "descartados": 14
 }
