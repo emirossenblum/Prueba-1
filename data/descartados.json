@@ -1,5 +1,124 @@
 [
   {
+    "portal": "linkedin",
+    "portal_id": "4482018776",
+    "titulo": "Supervisor Construcción de Caminos de Montaña en Minería",
+    "empresa": "Fluor Corporation",
+    "ubicacion": "San Juan, San Juan, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-11T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/supervisor-construcci%C3%B3n-de-caminos-de-monta%C3%B1a-en-miner%C3%ADa-at-fluor-corporation-4482018776",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4482018776",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Juan, San Juan, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4487823148",
+    "titulo": "Auditor/a de Ventas",
+    "empresa": "Elevia Academy",
+    "ubicacion": "Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-11T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/auditor-a-de-ventas-at-elevia-academy-4487823148",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4487823148",
+    "motivos_descarte": [
+      "ventas: «ventas»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4480736533",
+    "titulo": "Analista de Portabilidad Numérica",
+    "empresa": "Claro Argentina",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-11T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/analista-de-portabilidad-num%C3%A9rica-at-claro-argentina-4480736533",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4480736533",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4489667991",
+    "titulo": "Guardia de Seguridad Tienda Entrada",
+    "empresa": "Allied Universal",
+    "ubicacion": "San Juan, San Juan, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-11T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/guardia-de-seguridad-tienda-entrada-at-allied-universal-4489667991",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4489667991",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Juan, San Juan, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4489674816",
+    "titulo": "Technical Specialist 1, Protection, Control, and Automation",
+    "empresa": "LUMA Energy",
+    "ubicacion": "San Juan, San Juan, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-11T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/technical-specialist-1-protection-control-and-automation-at-luma-energy-4489674816",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4489674816",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Juan, San Juan, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4487880143",
+    "titulo": "Online telephone customer service",
+    "empresa": "Kary Group",
+    "ubicacion": "La Plata, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-11T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/online-telephone-customer-service-at-kary-group-4487880143",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4487880143",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «La Plata, Provincia de Buenos Aires, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4488208733",
+    "titulo": "RESPONSABLE DE OPERACIÓN",
+    "empresa": "SAI Medicine",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-11T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/responsable-de-operaci%C3%B3n-at-sai-medicine-4488208733",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4488208733",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
     "portal": "bumeran",
     "portal_id": "1118513403",
     "titulo": "Redactor y Corrector",
@@ -14,6 +133,194 @@
     "id": "bumeran:1118513403",
     "motivos_descarte": [
       "ubicacion fuera de zona: «El Dorado, Misiones»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4487490142",
+    "titulo": "Sports Match Reporter / Data Scout – Argentina Oliva",
+    "empresa": "FeedConstruct",
+    "ubicacion": "Oliva, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-10T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/sports-match-reporter-data-scout-%E2%80%93-argentina-oliva-at-feedconstruct-4487490142",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4487490142",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Oliva, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4487810630",
+    "titulo": "Técnico de marketing",
+    "empresa": "Rhino 4x4",
+    "ubicacion": "Córdoba y alrededores, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-10T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-marketing-4487810630",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4487810630",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba y alrededores, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4489611412",
+    "titulo": "Accounting Manager - Client Accounting & Advisory Services",
+    "empresa": "Convoy Finance",
+    "ubicacion": "San Miguel de Tucumán, Tucumán, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-10T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/accounting-manager-client-accounting-advisory-services-at-convoy-finance-4489611412",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4489611412",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Miguel de Tucumán, Tucumán, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4487807784",
+    "titulo": "Ingeniero de Performance – Fluidos de Perforación y Control de Sólidos - NEUQUÉN",
+    "empresa": "Oil & Gas Solutions Partners",
+    "ubicacion": "Neuquen, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-10T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/ingeniero-de-performance-%E2%80%93-fluidos-de-perforaci%C3%B3n-y-control-de-s%C3%B3lidos-neuqu%C3%A9n-4487807784",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4487807784",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquen, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4487806556",
+    "titulo": "JEFE SALA REAL TIME PULLING",
+    "empresa": "YPF SA",
+    "ubicacion": "Neuquen, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-10T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/jefe-sala-real-time-pulling-at-ypf-4487806556",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4487806556",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquen, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4487801623",
+    "titulo": "JEFE DE SALA REAL TIME ISQ/WT/DES",
+    "empresa": "YPF SA",
+    "ubicacion": "Neuquen, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-10T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/jefe-de-sala-real-time-isq-wt-des-at-ypf-4487801623",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4487801623",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquen, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4489469333",
+    "titulo": "Asesora de ventas (Formosa)",
+    "empresa": "SP Risk Service",
+    "ubicacion": "Formosa, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-10T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/asesora-de-ventas-formosa-at-sp-risk-service-4489469333",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4489469333",
+    "motivos_descarte": [
+      "ventas: «ventas»",
+      "ubicacion fuera de zona: «Formosa, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4487808855",
+    "titulo": "Coordinador/a Técnico Comercial - Zona Litoral",
+    "empresa": "Pirelli",
+    "ubicacion": "Rosario, Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-10T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/coordinador-a-t%C3%A9cnico-comercial-zona-litoral-at-pirelli-4487808855",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4487808855",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4487819647",
+    "titulo": "Sales & Operations Manager (Bilingual C1 English & Spanish)",
+    "empresa": "AI Case Leads",
+    "ubicacion": "Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-10T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/sales-operations-manager-bilingual-c1-english-spanish-at-ai-case-leads-4487819647",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4487819647",
+    "motivos_descarte": [
+      "ingles_alto: «bilingual»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4487815782",
+    "titulo": "Operador de Maquinaria Pesada / Equipos Mineros (Catamarca)",
+    "empresa": "Randstad Argentina",
+    "ubicacion": "Catamarca, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-10T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/operador-de-maquinaria-pesada-equipos-mineros-catamarca-at-randstad-argentina-4487815782",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4487815782",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Catamarca, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4487809746",
+    "titulo": "Operador de Materiales  - Villa Mercedes (San Luis) - Eventual",
+    "empresa": "Newsan",
+    "ubicacion": "Villa Mercedes, San Luis, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-10T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/operador-de-materiales-villa-mercedes-san-luis-eventual-at-newsan-4487809746",
+    "descripcion": null,
+    "capturado": "2026-11-11T11:42:11.501369",
+    "id": "linkedin:4487809746",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Villa Mercedes, San Luis, Argentina»"
     ]
   },
   {
@@ -3257,167 +3564,6 @@
     ]
   },
   {
-    "portal": "computrabajo",
-    "portal_id": "7254A7DEF9EFA30B61373E686DCF3405",
-    "titulo": "Analista de Marketing Performance y Data",
-    "empresa": "Konecta",
-    "ubicacion": "San Nicolás, Capital Federal",
-    "modalidad": "hibrido",
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T15:18:11",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-marketing-performance-y-data-en-san-nicolas-7254A7DEF9EFA30B61373E686DCF3405",
-    "descripcion": "Konecta es una compañía líder en la prestación de servicios y soluciones digitales de customer management. Cuenta con más de 120.000 profesionales, que trabajan en 30 idiomas alrededor de 26 países. Konecta ofrece soluciones end-to-end que abarcan todo el ciclo de vida de los clientes, con una oferta omnicanal integrada y digital, con el fin de mejorar la eficiencia de sus procesos y acompañar la evolución de sus servicios, cubriendo la experiencia del cliente, la consultoría de reingeniería de procesos, las tecnologías digitales y de última generación y operaciones de clientes (Front y Back Office), entre otros. Clave en este proceso, ha sido la capacidad de Konecta para dar respuesta a la evolución de los mercados apostando fuertemente por la tecnología, estableciendo varios tech hubs, en los que se trabaja en desarrollos de automatización, robotización, servicios digitales, Big Data e Inteligencia Artificial. La compañía apuesta por un modelo de crecimiento empresarial sostenible, mediante la implantación de prácticas de gestión sustentadas en la rentabilidad, calidad, ética, transparencia, diversidad e igualdad de oportunidades, minimizando su impacto en el medioambiente y colaborando con el desarrollo comunitario. Con sede en Madrid, genera unos ingresos globales de 2.000 millones de euros con más de 500 clientes, entre los que se encuentran las principales empresas de telecomunicaciones, energía, banca, automoción y movilidad, e-commerce y retail. Analista de Marketing Performance & Data. ­­­­­­­­­­­­­­­­­­­­­­­ ¡Nos encontramos en la búsqueda de cubrir vacantes para puesto de Analista de Marketing Performance & Data para una de nuestras cuentas! ¡Oportunidad laboral en Buenos Aires MISIÓN DEL PUESTO: Liderar integralmente la estrategia de generación de demanda digital y performance (con foco en Google Ads), optimizando presupuestos y acompañando el recorrido del lead a lo largo de todo el embudo de conversión (MQL/SQL). TUS PRINCIPALES DESAFÍO SERÁN: Planificar, ejecutar y monitorear de manera integral las campañas digitales orientadas a la generación de demanda (con fuerte foco en Google Ads) para Argentina y Chile. Analizar de forma continua el rendimiento de las acciones (performance de keywords, tasas de conversión, inversión y resultados), aplicando ajustes ágiles para optimizar la asignación de presupuesto. Confeccionar briefs para las iniciativas de performance, asegurando una correcta planificación, ejecución y coherencia con los lineamientos del área de Comunicación Estratégica. Realizar el seguimiento exhaustivo del funnel de conversión (Marketing Comercial), monitoreando formularios, volumen de leads, leads calificados (MQL/SQL) y oportunidades generadas. Construir, actualizar y perfeccionar dashboards y herramientas de visualización de datos, elaborando reportes periódicos de performance desglosados por país, canal y campaña. Transformar la información cuantitativa en insights accionables y reportes de gestión que faciliten la toma de decisiones estratégicas y permitan medir el cumplimiento de los KPIs del área. Administrar y mantener actualizadas las bases y fuentes de información de Marketing de los diferentes públicos, garantizando la integridad de los datos mediante el uso de herramientas CRM (HubSpot y Salesforce). Articular acciones y coordinar expectativas con clientes internos (especialmente el equipo Comercial), actuando como nexo analítico para evaluar la calidad de los leads y retroalimentar las campañas. Medir y reportar los resultados de eventos corporativos y otras iniciativas del área de comunicación, aportando una visión basada en datos orientada a la mejora continua. REQUISITOS: Estudiante avanzado o graduado de carreras como Marketing, Publicidad, Administración, Economía, Comunicación, Data Analytics o afines. (Excluyente). Experiencia comprobable en Marketing Digital y/o Performance Marketing. Experiencia práctica gestionando Google Ads; Business Intelligence y visualización (Looker Studio, Power BI). (Excluyente). Conocimientos de Google Analytics (GA4); SEO, automatización, landing pages y generación de demanda en entornos B2B/Servicios/Tecnología. (Excluyente). Manejo avanzado de Excel / Google Sheets. ; CRMs (HubSpot, Salesforce). (Excluyente). Nivel de conocimiento en IA: intermedio Disponibilidad Horaria: 09 a 17hs Modalidad: Hibrida Idioma Ingles B2 (Deseable) BENEFICIOS Esquema de comisiones / incentivos según cumplimiento de metas del equipo. Beneficios en prepagas Formación Inmediata Posibilidades de crecimiento interno Programa de Bienestar: Descuentos en comidas, cine, indumentaria, electrodomésticos, gimnasios, viajes, y más. -Requerimientos- Educación mínima: Universitario 1 año de experiencia Palabras clave: analyst, mercadotecnia, marketing, mercadeo, productividad, productivity, yield, rendimiento, datos, data",
-    "capturado": "2026-10-27T16:17:27.733242",
-    "id": "computrabajo:7254A7DEF9EFA30B61373E686DCF3405",
-    "motivos_descarte": [
-      "google_ads: «google ads»",
-      "ventas: «generacion de demanda»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "165171C83814E0DB61373E686DCF3405",
-    "titulo": "Analista de Marketing Digital / Empresa Constructora / Neuquén",
-    "empresa": "Estudio Sanchez Salas y Asoc. S.R.L.",
-    "ubicacion": "Neuquen, Neuquén",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T13:18:11",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-marketing-digital-empresa-constructora-neuquen-en-neuquen-165171C83814E0DB61373E686DCF3405",
-    "descripcion": "Detalle Importante empresa constructora y desarrolladora inmobiliaria dedicada a la estructuración, construcción y comercialización de proyectos residenciales propios, seleccionará para sus oficinas en Neuquén capital un/a Analista de Marketing Digital. · Misión del puesto: liderar la estrategia de comunicación y la generación de demanda/leads de los desarrollos residenciales (en pozo y propiedades terminadas) en Neuquén. · No buscamos un/a Community Manager tradicional, sino a una persona estratégica y analítica capaz de diseñar, ejecutar y medir el sistema de generación de demanda, definiendo el árbol de buyers persona para cada proyecto y entregando leads calificados al equipo comercial. · Contexto de la organización: La empresa se encuentra en plena profesionalización de su área comercial, y el marketing es la primera pieza de ese proceso. La posición tendrá autonomía sobre la estrategia digital y participación directa en la construcción del área desde cero. · Quien ocupe la posición tendrá las siguientes responsabilidades: - Gestión de Pauta (Paid Media): Generación de contenido, creatividades y copywriting segmentado para campañas en Meta Ads y Google Ads. - Gestión Operativa de Meta Business Suite: Públicos personalizados/similares, píxel, eventos de conversión y biblioteca de creativos. - Análisis de Métricas y Datos: Seguimiento de CPL, tasa de contacto, conversión lead-visita-reserva y reportes con recomendaciones accionables. - Inteligencia Artificial Aplicada: Uso transversal de herramientas de IA para optimización de copy, diseño, análisis y automatizaciones. - Contenido Orgánico & Branding: Coordinar avances de obra, lanzamientos y entregas aplicando el BrandBook de la empresa. - Trabajo en equipo directo con la fuerza comercial y definición de KPIs del sector. · Qué buscamos: - Experiencia: 2 a 4 años en marketing digital con gestión real de pauta publicitaria. Valoramos experiencia previa en el rubro inmobiliario/construcción (no excluyente). - Manejo comprobable de Meta Business Suite y Google Ads: armado de campañas, públicos, seguimiento de conversiones. - Manejo de herramientas de diseño y edición (Canva, suite Adobe o equivalentes) y de herramientas de IA generativa aplicadas al trabajo diario. - Lectura de datos: Excel/Google Sheets/Looker Studio, capacidad de armar un reporte y extraer una conclusión accionable. - Autogestión, organización y criterio para priorizar sin supervisión constante. · Requisitos: - Estudios terciarios o universitarios, en curso o finalizados, en Marketing, Publicidad, Comunicación, Comercialización o carreras afines. - Excluyente: residencia en Neuquén capital o zonas aledañas. - Portfolio o muestras de trabajo (piezas, campañas gestionadas, textos publicitarios propios). Se valorarán casos con resultados medibles. · ¿Qué ofrecemos? - Remuneración fija mensual (no atada a ventas). - Presupuesto real de pauta para gestionar y desarrollos propios de la empresa. -Autonomía sobre la estrategia digital y oportunidad de impactar directamente en el embudo comercial. - Proyecto en plena estructuración con un camino claro de crecimiento hacia la coordinación del área. - Capacitación continua y excelente clima laboral. · Condiciones de contratación: - Jornada Laboral: Full time, de lunes a viernes, 100% presencial. - Ubicación: Neuquén capital.-Requerimientos- Educación mínima: Terciario 3 años de experiencia Palabras clave: analyst, mercadotecnia, marketing, mercadeo, online",
-    "capturado": "2026-10-27T16:17:27.733242",
-    "id": "computrabajo:165171C83814E0DB61373E686DCF3405",
-    "motivos_descarte": [
-      "google_ads: «google ads»",
-      "ventas: «ventas»",
-      "ubicacion fuera de zona: «Neuquen, Neuquén»"
-    ]
-  },
-  {
-    "portal": "weremoto",
-    "portal_id": "id-junior-social-media-virtual-assistant-south-1",
-    "titulo": "Junior Social Media Virtual Assistant",
-    "empresa": "SOUTH",
-    "ubicacion": "Remoto",
-    "modalidad": "remoto",
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T12:00:00",
-    "url": "https://www.weremoto.com/job-posts/id-junior-social-media-virtual-assistant-south-1",
-    "descripcion": "📌 Rol: Junior Social Media Virtual Assistant – South 🌎 Ubicación: Latinoamérica – 100% remoto 💼 Tipo de Contrato: Contratista independiente, full-time (40 horas semanales). Disponibilidad los fines de semana preferida, pero no obligatoria. 💰 Salario: Pago mensual en USD (monto no especificado). 📋 Descripción General South busca un/a Asistente Virtual Junior de Redes Sociales para gestionar comunidades digitales y brindar atención a clientes de una empresa estadounidense especializada en creación de empresas, estrategias fiscales, crédito empresarial y protección de activos. El puesto se enfoca en la interacción con comunidades, seguimiento de contactos y coordinación entre equipos de Ventas, Marketing y Dirección. No incluye diseño gráfico ni gestión de campañas publicitarias. 📋 Responsabilidades Principales Monitorear e interactuar diariamente en Skool, grupos de Facebook, Discord y portales de clientes. Responder comentarios y mensajes privados manteniendo el tono profesional de la dirección. Consultar Salesforce para identificar clientes existentes y potenciales, registrar interacciones y etiquetar contactos. Derivar oportunidades comerciales al equipo de Ventas y escalar consultas urgentes mediante Slack. Participar en nuevos grupos y comunidades relevantes para ampliar la red de contactos. Identificar menciones de competidores y oportunidades de networking. Mantener registros, seguimientos y reportes diarios en Google Sheets. Coordinar información entre los equipos de Ventas, Marketing y Dirección. 🎯 Requisitos Experiencia previa en gestión de redes sociales, comunidades digitales o atención a clientes. Inglés avanzado o fluido (C1/C2), oral y escrito. Experiencia básica con Salesforce o CRM similares. Manejo de Facebook Groups, Discord, Slack y plataformas comunitarias como Skool. Organización, confiabilidad y atención al detalle para gestionar múltiples plataformas. Discreción profesional para representar a directivos y comunicarse con clientes. Disponibilidad de 40 horas semanales. Se priorizarán candidatos con disponibilidad los sábados y domingos, con dos días libres planificados durante la semana. Se valora: Conocimientos de inversiones inmobiliarias, e-commerce, creación de empresas o conceptos fiscales. Experiencia con Google Sheets para seguimiento de tareas y reportes. 📌 Información Importante Solo se aceptarán CV en inglés. Se recomienda incluir un video de presentación en Loom (opcional, con prioridad para quienes lo envíen). No se permite utilizar herramientas de inteligencia artificial durante las entrevistas. Durante las etapas finales podrían solicitarse referencias profesionales y la actualización del perfil de LinkedIn.",
-    "capturado": "2026-10-27T16:17:27.733242",
-    "id": "weremoto:id-junior-social-media-virtual-assistant-south-1",
-    "motivos_descarte": [
-      "ingles_alto: «ingles avanzado»",
-      "ventas: «ventas»"
-    ]
-  },
-  {
-    "portal": "weremoto",
-    "portal_id": "id-jr-social-media-marketing-assistant-valatam-1",
-    "titulo": "Jr. Social Media & Marketing Assistant",
-    "empresa": "Valatam",
-    "ubicacion": "Remoto",
-    "modalidad": "remoto",
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T12:00:00",
-    "url": "https://www.weremoto.com/job-posts/id-jr-social-media-marketing-assistant-valatam-1",
-    "descripcion": "📌 Rol: Jr. Social Media & Marketing Assistant – Valatam 🌎 Ubicación: Latinoamérica – 100% remoto 💼 Tipo de Contrato: Full-time 🎓 Formación: Se prefiere título universitario o terciario en Marketing, Comunicación, Negocios o áreas relacionadas. 💰 Salario: USD 696–1.044 mensuales, según experiencia. 📋 Descripción General Valatam busca un/a Asistente Junior de Marketing Digital y Redes Sociales para gestionar contenidos, ejecutar campañas digitales y brindar soporte administrativo de marketing a clientes internacionales. 📋 Responsabilidades Principales Diseñar, organizar y programar contenido para LinkedIn, Instagram y Facebook. Gestionar calendarios editoriales y mantener publicaciones consistentes. Colaborar en la creación, ejecución y seguimiento de campañas de email marketing. Apoyar campañas de publicidad paga y monitorear indicadores de rendimiento (KPIs). Elaborar informes de marketing basados en métricas y resultados. Implementar estrategias de redes sociales alineadas con los objetivos de cada marca. Organizar recursos digitales y realizar tareas administrativas de marketing. 🎯 Requisitos Inglés avanzado (C1/C2) y español, oral y escrito. Entre 1 y 2 años de experiencia en marketing digital, redes sociales o soporte administrativo de marketing. Experiencia con Canva, CapCut, herramientas de programación y análisis de redes sociales. Dominio de Google Workspace y Microsoft Office 365. Organización, creatividad y atención al detalle. Espacio de trabajo tranquilo, conexión estable a Internet (mínimo 10 Mbps de descarga y 2 Mbps de subida) y conexión de respaldo. Disponibilidad para permanecer en el país de residencia durante los primeros 4 meses, sin viajes programados. 🏖️ Beneficios Incrementos salariales anuales garantizados. Bonos por desempeño de clientes, cumpleaños y aniversarios laborales. 7 feriados federales de EE. UU. y 4 días de licencia remunerada. Subsidio mensual para seguro médico, sujeto a elegibilidad. Asignación para gimnasio y bienestar, con clases de fitness online ilimitadas. Eventos de equipo, celebraciones virtuales y ambiente colaborativo. Importante: Solo se considerarán CV enviados en inglés.",
-    "capturado": "2026-10-27T16:17:27.733242",
-    "id": "weremoto:id-jr-social-media-marketing-assistant-valatam-1",
-    "motivos_descarte": [
-      "ingles_alto: «ingles avanzado»"
-    ]
-  },
-  {
-    "portal": "bumeran",
-    "portal_id": "1118497740",
-    "titulo": "Analista de Trade Marketing",
-    "empresa": "Coty Mania",
-    "ubicacion": "Haedo, Buenos Aires",
-    "modalidad": "presencial",
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T11:00:58",
-    "url": "https://www.bumeran.com.ar/empleos/analista-de-trade-marketing-coty-mania-1118497740.html",
-    "descripcion": "Sobre el puestoEn Coty Manía, empresa de retail especializada en cotillón, repostería, descartables y artículos para fiestas, buscamos incorporar un/a Analista de Trade Marketing para potenciar la ejecución comercial en nuestras 19 sucursales. La persona tendrá como objetivo mejorar la experiencia de compra, optimizar la exhibición de productos, asegurar la correcta implementación de las acciones comerciales y contribuir a mejorar la disponibilidad de mercadería en los puntos de venta. Trabajará de manera transversal con las áreas de Marketing, Ventas, Compras, Abastecimiento y Logística, coordinando acciones que permitan mejorar la ejecución y los resultados comerciales de la cadena.Objetivo del puesto Asegurar una ejecución comercial consistente en las sucursales de Coty Manía, mejorando la exhibición, la disponibilidad de productos y la implementación de acciones comerciales para contribuir al crecimiento de las ventas y a una mejor experiencia de compra.Principales responsabilidades Exhibición y ejecución en el punto de venta • Diseñar e implementar lineamientos de exhibición y visual merchandising para las sucursales. • Establecer criterios de organización, ubicación y presentación de productos por familia. • Desarrollar propuestas de exhibición destacada, punteras, cabeceras, islas comerciales y espacios promocionales. • Supervisar la correcta implementación de cartelería, señalización de precios y materiales de comunicación en tienda. • Realizar visitas periódicas a las sucursales para evaluar el cumplimiento de los estándares y detectar oportunidades de mejora. Seguimiento de disponibilidad y quiebres de stock • Monitorear la disponibilidad de productos en las sucursales e identificar quiebres de stock y faltantes recurrentes. • Analizar los productos de mayor relevancia comercial y detectar desvíos que afecten las ventas. • Coordinar con Abastecimiento y Logística las acciones necesarias para corregir faltantes y mejorar la reposición. • Realizar seguimiento de los desvíos detectados hasta verificar su resolución. • Proponer mejoras en los procesos de reposición y disponibilidad en el punto de venta. Activaciones comerciales y desarrollo de marcas • Coordinar con Marketing la implementación de campañas, promociones y acciones comerciales en las sucursales. • Gestionar la colocación y el mantenimiento de materiales POP, cartelería y elementos de exhibición. • Identificar oportunidades de exhibición y acciones conjuntas con proveedores y marcas. • Desarrollar propuestas de alianzas comerciales que permitan mejorar la visibilidad de productos y generar oportunidades de venta. • Asegurar la correcta ejecución de las acciones acordadas con las marcas en los puntos de venta. Análisis y seguimiento de resultados • Elaborar reportes de cumplimiento de exhibición, disponibilidad y ejecución comercial. • Analizar indicadores de quiebres de stock, ventas, rotación y desempeño de las acciones promocionales. • Identificar oportunidades comerciales por sucursal y familia de productos. • Proponer e implementar planes de mejora junto con las áreas involucradas. • Realizar seguimiento de las acciones correctivas y evaluar sus resultados.Competencias valoradas Orientación a resultados y al punto de venta. Capacidad analítica y resolución de problemas. Planificación, organización y seguimiento. Iniciativa y autonomía. Habilidad para trabajar transversalmente con distintos equipos. Atención al detalle y capacidad de ejecuciónRequisitos Formación en Marketing, Comercialización, Administración de Empresas o carreras afines.Experiencia previa en Trade Marketing, ejecución comercial, visual merchandising o posiciones similares en retail.Manejo de Excel o Google Sheets para análisis y seguimiento de indicadores.Manejo de Power BI para consultar, analizar y visualizar indicadores comerciales; se valorará la capacidad de desarrollar reportes y tableros.Capacidad para analizar información comercial y transformarla en acciones concretas.Disponibilidad para realizar visitas periódicas a las sucursales.Buenas habilidades de comunicación, organización y coordinación entre áreas.",
-    "capturado": "2026-10-27T16:17:27.733242",
-    "id": "bumeran:1118497740",
-    "motivos_descarte": [
-      "ventas: «ventas»"
-    ]
-  },
-  {
-    "portal": "bumeran",
-    "portal_id": "2192621",
-    "titulo": "Analista de Marketing Digital - Empresa Constructora - Neuquén",
-    "empresa": "Estudio Sánchez Salas &amp; Asociados ",
-    "ubicacion": "Neuquén, Neuquén",
-    "modalidad": "presencial",
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T09:10:49",
-    "url": "https://www.bumeran.com.ar/empleos/analista-de-marketing-digital-empresa-constructora-neuquen-estudio-sanchez-salas-amp-asociados-2192621.html",
-    "descripcion": "DetalleImportante empresa constructora y desarrolladora inmobiliaria dedicada a la estructuración, construcción y comercialización de proyectos residenciales propios, seleccionará para sus oficinas en Neuquén capital un/a Analista de Marketing Digital.Misión del puesto: liderar la estrategia de comunicación y la generación de demanda/leads de los desarrollos residenciales (en pozo y propiedades terminadas) en Neuquén.No buscamos un/a Community Manager tradicional, sino a una persona estratégica y analítica capaz de diseñar, ejecutar y medir el sistema de generación de demanda, definiendo el árbol de buyers persona para cada proyecto y entregando leads calificados al equipo comercial.Contexto de la organización: La empresa se encuentra en plena profesionalización de su área comercial, y el marketing es la primera pieza de ese proceso. La posición tendrá autonomía sobre la estrategia digital y participación directa en la construcción del área desde cero.Quien ocupe la posición tendrá las siguientes responsabilidades:- Gestión de Pauta (Paid Media): Generación de contenido, creatividades y copywriting segmentado para campañas en Meta Ads y Google Ads.- Gestión Operativa de Meta Business Suite: Públicos personalizados/similares, píxel, eventos de conversión y biblioteca de creativos.- Análisis de Métricas y Datos: Seguimiento de CPL, tasa de contacto, conversión lead-visita-reserva y reportes con recomendaciones accionables.- Inteligencia Artificial Aplicada: Uso transversal de herramientas de IA para optimización de copy, diseño, análisis y automatizaciones.- Contenido Orgánico & Branding: Coordinar avances de obra, lanzamientos y entregas aplicando el BrandBook de la empresa.- Trabajo en equipo directo con la fuerza comercial y definición de KPIs del sector.Qué buscamos:- Experiencia: 2 a 4 años en marketing digital con gestión real de pauta publicitaria. Valoramos experiencia previa en el rubro inmobiliario/construcción (no excluyente).- Manejo comprobable de Meta Business Suite y Google Ads: armado de campañas, públicos, seguimiento de conversiones.- Manejo de herramientas de diseño y edición (Canva, suite Adobe o equivalentes) y de herramientas de IA generativa aplicadas al trabajo diario.- Lectura de datos: Excel/Google Sheets/Looker Studio, capacidad de armar un reporte y extraer una conclusión accionable.- Autogestión, organización y criterio para priorizar sin supervisión constante.Requisitos:- Estudios terciarios o universitarios, en curso o finalizados, en Marketing, Publicidad, Comunicación, Comercialización o carreras afines.- Excluyente: residencia en Neuquén capital o zonas aledañas.- Portfolio o muestras de trabajo (piezas, campañas gestionadas, textos publicitarios propios). Se valorarán casos con resultados medibles.¿Qué ofrecemos?- Remuneración fija mensual (no atada a ventas).- Presupuesto real de pauta para gestionar y desarrollos propios de la empresa. -Autonomía sobre la estrategia digital y oportunidad de impactar directamente en el embudo comercial.- Proyecto en plena estructuración con un camino claro de crecimiento hacia la coordinación del área.- Capacitación continua y excelente clima laboral.Condiciones de contratación:- Jornada Laboral: Full time, de lunes a viernes, 100% presencial.- Ubicación: Neuquén capital.",
-    "capturado": "2026-10-27T16:17:27.733242",
-    "id": "bumeran:2192621",
-    "motivos_descarte": [
-      "google_ads: «google ads»",
-      "ventas: «ventas»",
-      "ubicacion fuera de zona: «Neuquén, Neuquén»"
-    ]
-  },
-  {
-    "portal": "bumeran",
-    "portal_id": "1118497606",
-    "titulo": "Analista de Marketing Digital - Empresa Constructora - Neuquén",
-    "empresa": "ESTUDIO SANCHEZ SALAS Y ASOCIADOS SRL ",
-    "ubicacion": "Neuquén, Neuquén",
-    "modalidad": "presencial",
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T09:07:32",
-    "url": "https://www.bumeran.com.ar/empleos/analista-de-marketing-digital-empresa-constructora-neuquen-estudio-sanchez-salas-y-asociados-srl-1118497606.html",
-    "descripcion": "DetalleImportante empresa constructora y desarrolladora inmobiliaria dedicada a la estructuración, construcción y comercialización de proyectos residenciales propios, seleccionará para sus oficinas en Neuquén capital un/a Analista de Marketing Digital.Misión del puesto: liderar la estrategia de comunicación y la generación de demanda/leads de los desarrollos residenciales (en pozo y propiedades terminadas) en Neuquén.No buscamos un/a Community Manager tradicional, sino a una persona estratégica y analítica capaz de diseñar, ejecutar y medir el sistema de generación de demanda, definiendo el árbol de buyers persona para cada proyecto y entregando leads calificados al equipo comercial.Contexto de la organización: La empresa se encuentra en plena profesionalización de su área comercial, y el marketing es la primera pieza de ese proceso. La posición tendrá autonomía sobre la estrategia digital y participación directa en la construcción del área desde cero.Quien ocupe la posición tendrá las siguientes responsabilidades:- Gestión de Pauta (Paid Media): Generación de contenido, creatividades y copywriting segmentado para campañas en Meta Ads y Google Ads.- Gestión Operativa de Meta Business Suite: Públicos personalizados/similares, píxel, eventos de conversión y biblioteca de creativos.- Análisis de Métricas y Datos: Seguimiento de CPL, tasa de contacto, conversión lead-visita-reserva y reportes con recomendaciones accionables.- Inteligencia Artificial Aplicada: Uso transversal de herramientas de IA para optimización de copy, diseño, análisis y automatizaciones.- Contenido Orgánico & Branding: Coordinar avances de obra, lanzamientos y entregas aplicando el BrandBook de la empresa.- Trabajo en equipo directo con la fuerza comercial y definición de KPIs del sector.Qué buscamos:- Experiencia: 2 a 4 años en marketing digital con gestión real de pauta publicitaria. Valoramos experiencia previa en el rubro inmobiliario/construcción (no excluyente).- Manejo comprobable de Meta Business Suite y Google Ads: armado de campañas, públicos, seguimiento de conversiones.- Manejo de herramientas de diseño y edición (Canva, suite Adobe o equivalentes) y de herramientas de IA generativa aplicadas al trabajo diario.- Lectura de datos: Excel/Google Sheets/Looker Studio, capacidad de armar un reporte y extraer una conclusión accionable.- Autogestión, organización y criterio para priorizar sin supervisión constante.Requisitos:- Estudios terciarios o universitarios, en curso o finalizados, en Marketing, Publicidad, Comunicación, Comercialización o carreras afines.- Excluyente: residencia en Neuquén capital o zonas aledañas.- Portfolio o muestras de trabajo (piezas, campañas gestionadas, textos publicitarios propios). Se valorarán casos con resultados medibles.¿Qué ofrecemos?- Remuneración fija mensual (no atada a ventas).- Presupuesto real de pauta para gestionar y desarrollos propios de la empresa. -Autonomía sobre la estrategia digital y oportunidad de impactar directamente en el embudo comercial.- Proyecto en plena estructuración con un camino claro de crecimiento hacia la coordinación del área.- Capacitación continua y excelente clima laboral.Condiciones de contratación:- Jornada Laboral: Full time, de lunes a viernes, 100% presencial.- Ubicación: Neuquén capital.",
-    "capturado": "2026-10-27T16:17:27.733242",
-    "id": "bumeran:1118497606",
-    "motivos_descarte": [
-      "google_ads: «google ads»",
-      "ventas: «ventas»",
-      "ubicacion fuera de zona: «Neuquén, Neuquén»"
-    ]
-  },
-  {
-    "portal": "bumeran",
-    "portal_id": "1118497587",
-    "titulo": "Content Creator | Estrategia de Contenidos, Paid Media & IA (HÍBRIDO)",
-    "empresa": "Go For Marketing &amp; Ecommerce",
-    "ubicacion": "Capital Federal, Buenos Aires",
-    "modalidad": "presencial",
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T08:26:23",
-    "url": "https://www.bumeran.com.ar/empleos/content-creator-estrategia-de-contenidos-paid-media-ia-hibrido-go-for-marketing-amp-ecommerce-1118497587.html",
-    "descripcion": "Somos una agencia de Marketing Digital & Ecommerce en pleno crecimiento y estamos buscando una Content Creator para sumarse a nuestro equipo.Buscamos un perfil creativo, estratégico y orientado a resultados, con capacidad para desarrollar estrategias de contenido para grandes marcas y comprender cómo cada acción impacta en los objetivos del negocio.No buscamos a alguien que únicamente gestione redes sociales o publique contenido. Queremos incorporar a una persona que aporte ideas, analice resultados, identifique oportunidades y conecte las estrategias orgánicas con las campañas publicitarias.Principales responsabilidades Desarrollar e implementar estrategias de contenido orgánico para diferentes marcas y segmentos de negocio. Gestionar múltiples cuentas de manera simultánea, garantizando calidad, organización y cumplimiento de objetivos. Planificar calendarios de contenido alineados con la identidad de cada marca y sus objetivos comerciales. Analizar métricas de rendimiento, identificar oportunidades de mejora y proponer acciones de optimización. Trabajar de manera colaborativa con los equipos de Paid Media, Diseño, SEO y Cuentas para desarrollar estrategias integrales. Participar en la implementación, gestión y optimización de campañas publicitarias en Meta Ads y Google Ads. Conectar las estrategias de contenido orgánico con las campañas pagas para potenciar los resultados. Incorporar herramientas de Inteligencia Artificial para investigar tendencias, desarrollar ideas, optimizar contenidos y automatizar procesos.Requisitos Experiencia comprobable en creación de contenido y desarrollo de estrategias digitales para marcas. Conocimientos de gestión de redes sociales, planificación de contenidos y análisis de métricas. Experiencia o conocimientos prácticos en implementación y optimización de campañas en Meta Ads y Google Ads. Capacidad para gestionar múltiples proyectos y trabajar con equipos multidisciplinarios. Perfil analítico, creativo, organizado y con orientación a resultados. Excelente comunicación y capacidad para presentar propuestas estratégicas. Mentalidad AI Driven: experiencia utilizando herramientas como ChatGPT, Claude, Gemini o NotebookLM para analizar información, optimizar procesos, potenciar la creatividad y mejorar resultados.¿Qué ofrecemos? 3 semanas de vacaciones. Modalidad híbrida: 3 días presenciales y 2 de home office. Día de cumpleaños libre + Tarjeta Regalo. Beneficio SportClub. Espacios de creatividad e innovación. Reuniones de Growth, tendencias y aprendizaje continuo. After Office y actividades de integración. Oportunidades de desarrollo profesional en una agencia en crecimiento.Estamos en plena expansión y buscamos personas que quieran ser protagonistas de nuestro crecimiento, aportar nuevas ideas, desafiar lo establecido y trabajar en estrategias que generen resultados reales.Si te apasiona la creación de contenido, el marketing digital y la innovación a través de la Inteligencia Artificial, queremos conocerte.",
-    "capturado": "2026-10-27T16:17:27.733242",
-    "id": "bumeran:1118497587",
-    "motivos_descarte": [
-      "google_ads: «google ads»"
-    ]
-  },
-  {
-    "portal": "bumeran",
-    "portal_id": "1118497585",
-    "titulo": "RESPONSABLE DE MARKETING",
-    "empresa": "Tapalque Alimentos S.A.",
-    "ubicacion": "Capital Federal, Buenos Aires",
-    "modalidad": "presencial",
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T07:46:55",
-    "url": "https://www.bumeran.com.ar/empleos/responsable-de-marketing-tapalque-alimentos-s-a-1118497585.html",
-    "descripcion": "Importante frigorífico de gran trayectoria en el mercado, zona de Mataderos se encuentra en la búsqueda de un Responsable de Marketing.Nos orientamos a profesionales con experiencia en empresas de consumo masivo, preferentemente del rubro alimenticio.La misión del puesto es desarrollar y ejecutar estrategias de marketing efectivas para aumentar la visibilidad de la empresa, impulsar las ventas y mejorar la imagen de marca.Principales responsabilidades:- Crear, diseñar y ejecutar estrategias de marketing y campañas publicitarias en redes sociales.- Crear contenido con diseños creativos y coherentes con los productos.- Trabajar en conjunto con la fuerza de ventas en el diseño de planes de desarrollo de clientes.- Organizar la participación en ferias y eventos, además de desarrollar el presupuesto y el plan de merchandising.- Armado y actualización del cronograma de proyectos y contenidos mensuales y anuales.- Diseñar etiquetas de productos y packaging.- Investigar y analizar datos y tendencias del mercado.- Community manager.- Gestionar y mantener activa la página web y las RRSS.- Contacto fluido con agencias de MarketingRequisitos:Graduado en la carrera de Marketing, Publicidad o áreas afines.Manejo paquete office y programas de diseño.Buenas habilidades de redacción, comunicación y diseño.Experiencia mínima de 3 años.Indicar remuneración bruta pretendida.",
-    "capturado": "2026-10-27T16:17:27.733242",
-    "id": "bumeran:1118497585",
-    "motivos_descarte": [
-      "ventas: «ventas»"
-    ]
-  },
-  {
     "portal": "linkedin",
     "portal_id": "4484216798",
     "titulo": "Redactor/a Creativo/a",
@@ -3466,108 +3612,6 @@
     "id": "linkedin:4481867400",
     "motivos_descarte": [
       "ubicacion fuera de zona: «Venado Tuerto, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4466281376",
-    "titulo": "Facebook & Google Ads Specialist",
-    "empresa": "trendsparkdigital.uk",
-    "ubicacion": "Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/facebook-google-ads-specialist-4466281376",
-    "descripcion": null,
-    "capturado": "2026-10-27T16:17:27.733242",
-    "id": "linkedin:4466281376",
-    "motivos_descarte": [
-      "google_ads: «google ads»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4483559937",
-    "titulo": "Analista Jr. de Marketing",
-    "empresa": "Grupo Elcor",
-    "ubicacion": "Villa María, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/analista-jr-de-marketing-at-grupo-elcor-4483559937",
-    "descripcion": null,
-    "capturado": "2026-10-27T16:17:27.733242",
-    "id": "linkedin:4483559937",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Villa María, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4484058646",
-    "titulo": "Coordinador de operaciones",
-    "empresa": "Grupo Lago Escondido",
-    "ubicacion": "El Bolsón, Provincia de Río Negro, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/coordinador-de-operaciones-at-grupo-lago-escondido-4484058646",
-    "descripcion": null,
-    "capturado": "2026-10-27T16:17:27.733242",
-    "id": "linkedin:4484058646",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «El Bolsón, Provincia de Río Negro, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4481869259",
-    "titulo": "Sports Match Reporter / Data Scout – Argentina, James Craik",
-    "empresa": "FeedConstruct",
-    "ubicacion": "James Craik, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/sports-match-reporter-data-scout-%E2%80%93-argentina-james-craik-at-feedconstruct-4481869259",
-    "descripcion": null,
-    "capturado": "2026-10-27T16:17:27.733242",
-    "id": "linkedin:4481869259",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «James Craik, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4482202513",
-    "titulo": "Coordinador de Almacenes y Equipos",
-    "empresa": "360Energy",
-    "ubicacion": "Chilecito, La Rioja, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-27T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/coordinador-de-almacenes-y-equipos-at-360energy-4482202513",
-    "descripcion": null,
-    "capturado": "2026-10-27T16:17:27.733242",
-    "id": "linkedin:4482202513",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Chilecito, La Rioja, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4481817588",
-    "titulo": "Coordinador Académico: Lic. en Inteligencia Artificial y Big Data",
-    "empresa": "Pontificia Universidad Católica Argentina",
-    "ubicacion": "Mendoza, Mendoza, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-26T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/coordinador-acad%C3%A9mico-lic-en-inteligencia-artificial-y-big-data-at-pontificia-universidad-cat%C3%B3lica-argentina-santa-mar%C3%ADa-de-los-buenos-aires-%E2%80%8B-4481817588",
-    "descripcion": null,
-    "capturado": "2026-10-27T16:17:27.733242",
-    "id": "linkedin:4481817588",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Mendoza, Mendoza, Argentina»"
     ]
   }
 ]
