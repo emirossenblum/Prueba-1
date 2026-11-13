@@ -1,6 +1,312 @@
 [
   {
     "portal": "linkedin",
+    "portal_id": "4489504729",
+    "titulo": "Ejecutivo de Soluciones Digitales - Mendoza",
+    "empresa": "Claro Argentina",
+    "ubicacion": "Mendoza, Mendoza, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-13T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/ejecutivo-de-soluciones-digitales-mendoza-at-claro-argentina-4489504729",
+    "descripcion": null,
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "linkedin:4489504729",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Mendoza, Mendoza, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4488935303",
+    "titulo": "Especialista de Campo Testing",
+    "empresa": "SLB",
+    "ubicacion": "Neuquén, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-13T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/especialista-de-campo-testing-at-slb-4488935303",
+    "descripcion": null,
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "linkedin:4488935303",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquén, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4490568486",
+    "titulo": "Técnico Mécánico (Calderista)",
+    "empresa": "Philip Morris International",
+    "ubicacion": "Rosario de Lerma, Salta, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-13T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/t%C3%A9cnico-m%C3%A9c%C3%A1nico-calderista-at-philip-morris-international-4490568486",
+    "descripcion": null,
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "linkedin:4490568486",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Rosario de Lerma, Salta, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4474344368",
+    "titulo": "FIELD OPERATOR",
+    "empresa": "Weatherford",
+    "ubicacion": "Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-13T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/field-operator-at-weatherford-4474344368",
+    "descripcion": null,
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "linkedin:4474344368",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "E460C7E1BD31559C61373E686DCF3405",
+    "titulo": "Maquinistas y Operadores de Equipos Varios",
+    "empresa": "BENITO ROGGIO E HIJOS S.A.",
+    "ubicacion": "Córdoba, Córdoba",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-12T20:42:48",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-maquinistas-y-operadores-de-equipos-varios-con-carnet-vigente-en-cordoba-E460C7E1BD31559C61373E686DCF3405",
+    "descripcion": "Benito Roggio e Hijos S.A., líder en ingeniería y construcción de grandes obras, se encuentra en la búsqueda de distintos perfiles de choferes, maquinistas/ operadores de equipos, para obras en zona central del país. -> POSICIONES: Operador de hidrogrúa (4 y 20TN). Operador de grúa torre (50/70 TN). Operador de grúa móvil (60 y 70 TN). Operador de Manipulador telescópico (4 a 6 TN). Chofer de camión / transporte de pasajeros. -> REQUISITOS: Secundario completo (preferentemente con formación técnica en mecánica, electromecánica o afines). Experiencia comprobable mínima de 5 años en operación de equipos. Licencia de conducir / carnet habilitante (acorde a cada tipo de equipo). Preferentemente con residencia en provincia de Córdoba, con disponibilidad para trabajar con roster en obras. -> COMPETENCIAS Y HABILIDADES: Atención y concentración: Alta capacidad de enfoque para maniobrar con precisión. Conciencia de seguridad: Juicio crítico para evaluar terrenos difíciles, pendientes o puntos ciegos y prevenir accidentes. Condición física y psicofísica: con aptitud médica para el trabajo operativo. Trabajo en equipo y comunicación: Coordinación constante con capataces, señaleros (riggers) y otros operadores. Si estás buscando un desafío en una empresa con solidez y trayectoria, pero en constante evolución, te invitamos a postularte, adjuntando tu CV actualizado.-Requerimientos- Educación mínima: Secundaria años de experiencia Disponibilidad de viajar: Si",
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "computrabajo:E460C7E1BD31559C61373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "6D15D632191A9C8D61373E686DCF3405",
+    "titulo": "Operador de Envasadoras",
+    "empresa": "Grupo Gestión",
+    "ubicacion": "Córdoba, Córdoba",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-12T18:42:06",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-de-envasadoras-en-cordoba-6D15D632191A9C8D61373E686DCF3405",
+    "descripcion": "Para importante industria ALIMENTICIA de zona Sur de nuestra ciudad, seleccionamos OPERADORES DE MAQUINAS ENVASADORAS AUTOMATIZADAS - Preferentemente estudios Técnicos y experiencia en industrias alimenticias, operando procesos de elaboración y envasado, manejando maquinaria industriales, Envasadoras, Llenadoras, Empaquetadoras, etc. Manejo de sistema SCADA para realizar control de la máquina, cumpliendo las condiciones del proceso establecido. Manejo de sistema ERP para visualizar y cargar condiciones de proceso y variables críticas Conocimiento de herramientas y mantenimiento autónomo, Normas de BPM, orden y limpieza Ideal: Carnet de Manipulación de alimentos Disponibilidad de horarios para trabajar en 4to turno Turnos rotativos - 5x2 / 5x2 / 5x1 INGRESO INMEDIATO !!!!. -Requerimientos- Educación mínima: Secundaria 3 años de experiencia Edad: entre 24 y 42 años Palabras clave: operator, operario, operator",
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "computrabajo:6D15D632191A9C8D61373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "8BDA853F8D1CC47261373E686DCF3405",
+    "titulo": "Operador de Depósito",
+    "empresa": "Argentina Selección",
+    "ubicacion": "San Luis, San Luis",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-12T15:42:06",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-de-deposito-para-consumo-masivo-san-luis-capital-en-san-luis-8BDA853F8D1CC47261373E686DCF3405",
+    "descripcion": "Operador de DEPÓSITO San Luis Importante Distribuidora Nacional de Consumo Masivo Posición: Operador de Depósito Jornada laboral: Lunes a Viernes - Horario de corrido - Turnos Rotativos de mañana o tarde ¿Qué vas a hacer en el puesto? Serás parte clave de la operación del depósito, colaborando en: Preparación y armado de pedidos Recepción, control y almacenamiento de mercadería Carga y descarga de productos Organización y orden del depósito Control de stock e inventarios Etiquetado y clasificación de mercadería Colaboración con el equipo de logística para asegurar entregas en tiempo y forma y en ocasiones el reparto Requisitos: Carnet de conducir vigente (auto) - Excluyente Experiencia previa en depósitos o áreas logísticas de al menos 2 años Estudios secundarios completos con Certificado Analítico en Mano (esto es excluyente - no postular si no se cuenta con analítico) Se valorará: Experiencia en manejo de autoelevador Conocimientos en control de stock e inventarios Proactividad, responsabilidad y trabajo en equipo La empresa ofrece: Estabilidad laboral Buen clima de trabajo Oportunidades de desarrollo y crecimiento interno Si te interesa la posición y cumplís con los requisitos, envíanos tu CV actualizado.-Requerimientos- Educación mínima: Secundaria 2 años de experiencia Palabras clave: operator, operario, operator",
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "computrabajo:8BDA853F8D1CC47261373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Luis, San Luis»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4490524978",
+    "titulo": "ASESOR COMERCIAL - Cipolletti",
+    "empresa": "SanCor Salud Grupo de Medicina Privada",
+    "ubicacion": "Cipolletti, Provincia de Río Negro, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-12T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/asesor-comercial-cipolletti-at-sancor-salud-grupo-de-medicina-privada-4490524978",
+    "descripcion": null,
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "linkedin:4490524978",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Cipolletti, Provincia de Río Negro, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4488523278",
+    "titulo": "Inspector/a de soldadura Nivel II",
+    "empresa": "Clusterciar",
+    "ubicacion": "San Antonio Oeste, Provincia de Río Negro, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-12T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/inspector-a-de-soldadura-nivel-ii-at-clusterciar-4488523278",
+    "descripcion": null,
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "linkedin:4488523278",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Antonio Oeste, Provincia de Río Negro, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4489254331",
+    "titulo": "Analista de Ingeniería",
+    "empresa": "Nubicom",
+    "ubicacion": "Salta, Salta, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-12T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/analista-de-ingenier%C3%ADa-at-nubicom-4489254331",
+    "descripcion": null,
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "linkedin:4489254331",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Salta, Salta, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4490336963",
+    "titulo": "Analista",
+    "empresa": "Gamma Recruitment",
+    "ubicacion": "La Plata y alrededores",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-12T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/analista-at-gamma-recruitment-4490336963",
+    "descripcion": null,
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "linkedin:4490336963",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «La Plata y alrededores»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4429580371",
+    "titulo": "Coordinador/a de Mantenimiento Eléctrico - Planta Capdeville",
+    "empresa": "Holcim Argentina",
+    "ubicacion": "Mendoza, Mendoza, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-12T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/coordinador-a-de-mantenimiento-el%C3%A9ctrico-planta-capdeville-at-holcim-argentina-4429580371",
+    "descripcion": null,
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "linkedin:4429580371",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Mendoza, Mendoza, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4482262217",
+    "titulo": "Representante de Producción de Semillas",
+    "empresa": "Louis Dreyfus Company",
+    "ubicacion": "Marcos Juárez, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-12T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/representante-de-producci%C3%B3n-de-semillas-at-louis-dreyfus-company-4482262217",
+    "descripcion": null,
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "linkedin:4482262217",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Marcos Juárez, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4489258399",
+    "titulo": "Team Leader | Rosario",
+    "empresa": "NeuralSoft",
+    "ubicacion": "Rosario, Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-12T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/team-leader-rosario-at-neuralsoft-4489258399",
+    "descripcion": null,
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "linkedin:4489258399",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4489238391",
+    "titulo": "AUXILIAR C DE MANTENIMIENTO - Salta",
+    "empresa": "Aeropuertos Argentina",
+    "ubicacion": "Salta, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-12T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/auxiliar-c-de-mantenimiento-salta-at-aeropuertos-argentina-4489238391",
+    "descripcion": null,
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "linkedin:4489238391",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Salta, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4489276604",
+    "titulo": "OPERARIO DE CENTRO DE MECANIZADO",
+    "empresa": "COLVEN",
+    "ubicacion": "Santa Fe, Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-12T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/operario-de-centro-de-mecanizado-at-colven-4489276604",
+    "descripcion": null,
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "linkedin:4489276604",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Santa Fe, Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4488519902",
+    "titulo": "Técnico/a de Operación y Mantenimiento",
+    "empresa": "360Energy",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-12T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/t%C3%A9cnico-a-de-operaci%C3%B3n-y-mantenimiento-at-360energy-4488519902",
+    "descripcion": null,
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "linkedin:4488519902",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4490524025",
+    "titulo": "TECNICO RADIOLOGO",
+    "empresa": "Clínica San Agustín",
+    "ubicacion": "Neuquén, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-12T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/tecnico-radiologo-at-cl%C3%ADnica-san-agust%C3%ADn-4490524025",
+    "descripcion": null,
+    "capturado": "2026-11-13T11:41:39.757367",
+    "id": "linkedin:4490524025",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquén, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
     "portal_id": "4485445052",
     "titulo": "Telefonista",
     "empresa": "AGUAS JELSI SA",
@@ -3681,57 +3987,6 @@
     "id": "linkedin:4485207469",
     "motivos_descarte": [
       "google_ads: «google ads»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4482566750",
-    "titulo": "Responsable de comunicación",
-    "empresa": "PLUMARI S.A.",
-    "ubicacion": "Lanús, Provincia de Buenos Aires, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-29T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/responsable-de-comunicaci%C3%B3n-at-plumari-s-a-4482566750",
-    "descripcion": null,
-    "capturado": "2026-10-29T17:21:22.685238",
-    "id": "linkedin:4482566750",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Lanús, Provincia de Buenos Aires, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4483889852",
-    "titulo": "Asistente de Marketing",
-    "empresa": "Grupo IRSA",
-    "ubicacion": "Mar del Plata, Provincia de Buenos Aires, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-28T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/asistente-de-marketing-at-irsa-propiedades-comerciales-4483889852",
-    "descripcion": null,
-    "capturado": "2026-10-29T17:21:22.685238",
-    "id": "linkedin:4483889852",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Mar del Plata, Provincia de Buenos Aires, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4471297570",
-    "titulo": "Sports Match Reporter / Data Scout – Argentina Obera",
-    "empresa": "FeedConstruct",
-    "ubicacion": "Oberá, Misiones, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-10-28T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/sports-match-reporter-data-scout-%E2%80%93-argentina-obera-at-feedconstruct-4471297570",
-    "descripcion": null,
-    "capturado": "2026-10-29T17:21:22.685238",
-    "id": "linkedin:4471297570",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Oberá, Misiones, Argentina»"
     ]
   }
 ]
