@@ -1,5 +1,5 @@
 {
-  "inicio": "2026-11-13T11:41:39.757367",
+  "inicio": "2026-11-14T11:23:28.376391",
   "ventana_horas": 48,
   "terminos": [
     "periodista deportivo",
@@ -32,7 +32,7 @@
     },
     "computrabajo": {
       "estado": "ok",
-      "encontrados": 72,
+      "encontrados": 66,
       "errores": []
     },
     "weremoto": {
@@ -64,7 +64,7 @@
     },
     "linkedin": {
       "estado": "ok",
-      "encontrados": 167,
+      "encontrados": 185,
       "errores": []
     },
     "indeed": {
@@ -95,8 +95,8 @@
       ]
     }
   },
-  "fin": "2026-11-13T11:50:01.663522",
-  "nuevos_totales": 78,
-  "publicados": 60,
-  "descartados": 18
+  "fin": "2026-11-14T11:31:40.087786",
+  "nuevos_totales": 65,
+  "publicados": 55,
+  "descartados": 10
 }
