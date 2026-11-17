@@ -1,5 +1,5 @@
 {
-  "inicio": "2026-11-15T11:24:57.420410",
+  "inicio": "2026-11-17T11:36:51.499737",
   "ventana_horas": 48,
   "terminos": [
     "periodista deportivo",
@@ -26,13 +26,35 @@
   ],
   "portales": {
     "bumeran": {
-      "estado": "ok",
+      "estado": "error",
       "encontrados": 0,
-      "errores": []
+      "errores": [
+        "periodista deportivo: HTTP 403",
+        "cronista: HTTP 403",
+        "redactor: HTTP 403",
+        "operador de sonido: HTTP 403",
+        "comunicador: HTTP 403",
+        "periodista: HTTP 403",
+        "productor periodístico: HTTP 403",
+        "editor web: HTTP 403",
+        "cobertura: HTTP 403",
+        "fútbol: HTTP 403",
+        "operador de audio: HTTP 403",
+        "Operador de consola: HTTP 403",
+        "Operador de estudio: HTTP 403",
+        "Operador de radio: HTTP 403",
+        "Productor radial: HTTP 403",
+        "Operador de aire: HTTP 403",
+        "Operador técnico: HTTP 403",
+        "Técnico de sonido: HTTP 403",
+        "Sonidista: HTTP 403",
+        "Productor de transmisiones deportivas: HTTP 403",
+        "Transmisiones deportivas: HTTP 403"
+      ]
     },
     "computrabajo": {
       "estado": "ok",
-      "encontrados": 54,
+      "encontrados": 60,
       "errores": []
     },
     "weremoto": {
@@ -64,7 +86,7 @@
     },
     "linkedin": {
       "estado": "ok",
-      "encontrados": 177,
+      "encontrados": 178,
       "errores": []
     },
     "indeed": {
@@ -95,8 +117,8 @@
       ]
     }
   },
-  "fin": "2026-11-15T11:32:47.397836",
-  "nuevos_totales": 22,
-  "publicados": 19,
-  "descartados": 3
+  "fin": "2026-11-17T11:50:57.388685",
+  "nuevos_totales": 97,
+  "publicados": 76,
+  "descartados": 21
 }
