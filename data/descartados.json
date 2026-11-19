@@ -1,6 +1,381 @@
 [
   {
     "portal": "linkedin",
+    "portal_id": "4492246608",
+    "titulo": "Analista Payroll",
+    "empresa": "La Celeste",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/analista-payroll-at-la-celeste-4492246608",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4492246608",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492114848",
+    "titulo": "Video Editor",
+    "empresa": "Formulated Automation",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/video-editor-at-formulated-automation-4492114848",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4492114848",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492240749",
+    "titulo": "Auxiliar de Marketing y Comunicación",
+    "empresa": "GS BIO Implantes Quirúrgicos S.A",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/auxiliar-de-marketing-y-comunicaci%C3%B3n-at-gs-bio-implantes-quir%C3%BArgicos-s-a-4492240749",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4492240749",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492260102",
+    "titulo": "Maquinistas y Operadores de Equipos Varios",
+    "empresa": "Benito Roggio e Hijos S.A. (Argentina)",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/maquinistas-y-operadores-de-equipos-varios-at-benito-roggio-e-hijos-s-a-argentina-4492260102",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4492260102",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492240743",
+    "titulo": "Auditor Administrativo de Prestaciones Medicas",
+    "empresa": "Boreal Cobertura de Salud",
+    "ubicacion": "San Miguel de Tucumán, Tucumán, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/auditor-administrativo-de-prestaciones-medicas-at-boreal-cobertura-de-salud-4492240743",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4492240743",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Miguel de Tucumán, Tucumán, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492255286",
+    "titulo": "Subencargado/a de Local de Ventas",
+    "empresa": "Universo Aventura",
+    "ubicacion": "Buenos Aires, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/subencargado-a-de-local-de-ventas-at-universo-aventura-4492255286",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4492255286",
+    "motivos_descarte": [
+      "ventas: «ventas»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492257261",
+    "titulo": "Programador y Control de la Producción (PCP)",
+    "empresa": "Julio Bellone y Asociados",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/programador-y-control-de-la-producci%C3%B3n-pcp-at-julio-bellone-y-asociados-4492257261",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4492257261",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492251470",
+    "titulo": "Cocinero con experiencia en Sushi ( C Bell )",
+    "empresa": "SushiClub",
+    "ubicacion": "La Plata, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/cocinero-con-experiencia-en-sushi-c-bell-at-sushiclub-4492251470",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4492251470",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «La Plata, Provincia de Buenos Aires, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492243669",
+    "titulo": "Técnicos y Especialistas en Mantenimiento Industrial",
+    "empresa": "CALYCON S.A.",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/t%C3%A9cnicos-y-especialistas-en-mantenimiento-industrial-at-calycon-s-a-4492243669",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4492243669",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4484763324",
+    "titulo": "SR. WORKOVER ENGINEER",
+    "empresa": "Pluspetrol",
+    "ubicacion": "Neuquen, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/sr-workover-engineer-at-pluspetrol-4484763324",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4484763324",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquen, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492294799",
+    "titulo": "Ejecutivo Comercial Senior (Mendoza)",
+    "empresa": "Aprile - International Freight Forwarding",
+    "ubicacion": "Ciudad de Mendoza, Mendoza, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/ejecutivo-comercial-senior-mendoza-at-aprile-international-freight-forwarding-4492294799",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4492294799",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Ciudad de Mendoza, Mendoza, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492258193",
+    "titulo": "Maquinista Vial para Córdoba",
+    "empresa": "Porta Hnos. S.A.",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/maquinista-vial-para-c%C3%B3rdoba-at-porta-hnos-s-a-4492258193",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4492258193",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "0E5084D644979FA161373E686DCF3405",
+    "titulo": "Operador/a de Tráfico",
+    "empresa": "VIA BARILOCHE",
+    "ubicacion": "Cipolletti, Río Negro",
+    "modalidad": null,
+    "salario": "$ 111.111",
+    "fecha_publicacion": "2026-11-18T18:43:20",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operadora-de-trafico-en-cipolletti-0E5084D644979FA161373E686DCF3405",
+    "descripcion": "BÚSCAMOS OPERADOR/A DE TRÁFICO. La búsqueda se orienta a personas dinámicas, con vocación de servicio y predispuestas al trabajo en equipo. Valoraremos a quien posean experiencia en posiciones similares. Tareas: Atención a los conductores, entrega de documentación de la unidad. Seguimiento y gestión de soluciones ante problemáticas. Estudios: Secundario completo (excluyente) Buen manejo de PC Zona: Cipolletti - Rio Negro Modalidad de trabajo presencial. Horarios Rotativos. Trabajo eventual por 3 meses Súmate al equipo de Vía. -Requerimientos- Educación mínima: Secundaria 2 años de experiencia Palabras clave: operator, operario, operator, circulacion, transito, traffic, circulation, trafico",
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "computrabajo:0E5084D644979FA161373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Cipolletti, Río Negro»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492202469",
+    "titulo": "Adviser Translations | Conseiller(ère) Traduction",
+    "empresa": "Rio Tinto",
+    "ubicacion": "Salta, Salta, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-18T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/adviser-translations-conseiller-%C3%A8re-traduction-at-rio-tinto-4492202469",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4492202469",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Salta, Salta, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4491869427",
+    "titulo": "Superintendente de Contratos",
+    "empresa": "Vicuña",
+    "ubicacion": "San Juan, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-18T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/superintendente-de-contratos-at-vicu%C3%B1a-4491869427",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4491869427",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Juan, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4491883914",
+    "titulo": "Vendedor y Diseñador de Mobiliario - Egger Haus - Ushuaia",
+    "empresa": "Imcofue",
+    "ubicacion": "Ushuaia, Provincia de Tierra del Fuego, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-18T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/vendedor-y-dise%C3%B1ador-de-mobiliario-egger-haus-ushuaia-at-imcofue-4491883914",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4491883914",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Ushuaia, Provincia de Tierra del Fuego, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4491316814",
+    "titulo": "Bilingual Interpreter (Spanish/English)",
+    "empresa": "i-Call International",
+    "ubicacion": "Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-18T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/bilingual-interpreter-spanish-english-at-i-call-international-4491316814",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4491316814",
+    "motivos_descarte": [
+      "ingles_alto: «bilingual»",
+      "ubicacion fuera de zona: «Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492058849",
+    "titulo": "Responsable de Sala de Control y Monitoreo",
+    "empresa": "Main Clue",
+    "ubicacion": "Neuquén, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-18T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/responsable-de-sala-de-control-y-monitoreo-at-main-clue-4492058849",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4492058849",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquén, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492205037",
+    "titulo": "Coordinación de Operaciones en Mina",
+    "empresa": "Main Clue",
+    "ubicacion": "Zapala, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-18T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/coordinaci%C3%B3n-de-operaciones-en-mina-at-main-clue-4492205037",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4492205037",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Zapala, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4490892285",
+    "titulo": "Tornero cnc",
+    "empresa": "Aloña",
+    "ubicacion": "Villa María, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-18T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/tornero-cnc-at-alo%C3%B1a-4490892285",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4490892285",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Villa María, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4490890517",
+    "titulo": "Data Entry/Soporte",
+    "empresa": "Sofre Digital SA",
+    "ubicacion": "Neuquen, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-18T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/data-entry-soporte-at-sofre-digital-sa-4490890517",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4490890517",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquen, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4491301319",
+    "titulo": "Endoscopista",
+    "empresa": "Consultora nexa",
+    "ubicacion": "Neuquen, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-18T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/endoscopista-4491301319",
+    "descripcion": null,
+    "capturado": "2026-11-19T11:42:58.626260",
+    "id": "linkedin:4491301319",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquen, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
     "portal_id": "4490477769",
     "titulo": "Pañolero",
     "empresa": "Constructora Milco SRL",
