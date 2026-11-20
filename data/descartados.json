@@ -1,6 +1,210 @@
 [
   {
     "portal": "linkedin",
+    "portal_id": "4484825179",
+    "titulo": "Analista de Procesos CECOR",
+    "empresa": "Claro Argentina",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-20T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/analista-de-procesos-cecor-at-claro-argentina-4484825179",
+    "descripcion": null,
+    "capturado": "2026-11-20T11:44:29.083787",
+    "id": "linkedin:4484825179",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492771176",
+    "titulo": "Proyectista Civil / Ingeniería de Detalle",
+    "empresa": "OILFIELD PRODUCTION SERVICES SRL",
+    "ubicacion": "Neuquén, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-20T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/proyectista-civil-ingenier%C3%ADa-de-detalle-at-oilfield-production-services-srl-4492771176",
+    "descripcion": null,
+    "capturado": "2026-11-20T11:44:29.083787",
+    "id": "linkedin:4492771176",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquén, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492246648",
+    "titulo": "Coordinador/a de producción",
+    "empresa": "La Celeste",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/coordinador-a-de-producci%C3%B3n-at-la-celeste-4492246648",
+    "descripcion": null,
+    "capturado": "2026-11-20T11:44:29.083787",
+    "id": "linkedin:4492246648",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492186787",
+    "titulo": "Ejecutivo para Customer Care - Rosario",
+    "empresa": "NeuralSoft",
+    "ubicacion": "Rosario, Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/ejecutivo-para-customer-care-rosario-at-neuralsoft-4492186787",
+    "descripcion": null,
+    "capturado": "2026-11-20T11:44:29.083787",
+    "id": "linkedin:4492186787",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4491613949",
+    "titulo": "Ejecutivo de ventas",
+    "empresa": "Cooperativa Credikot",
+    "ubicacion": "Buenos Aires y alrededores",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/ejecutivo-de-ventas-4491613949",
+    "descripcion": null,
+    "capturado": "2026-11-20T11:44:29.083787",
+    "id": "linkedin:4491613949",
+    "motivos_descarte": [
+      "ventas: «ventas»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4491640619",
+    "titulo": "Contador Prov. de SALTA",
+    "empresa": "Consultora CYPSA de RRHH",
+    "ubicacion": "Salta, Salta, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/contador-prov-de-salta-at-consultora-cypsa-de-rrhh-4491640619",
+    "descripcion": null,
+    "capturado": "2026-11-20T11:44:29.083787",
+    "id": "linkedin:4491640619",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Salta, Salta, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4475732942",
+    "titulo": "Operaciones de Choque",
+    "empresa": "SLB",
+    "ubicacion": "Neuquén, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/operaciones-de-choque-at-slb-4475732942",
+    "descripcion": null,
+    "capturado": "2026-11-20T11:44:29.083787",
+    "id": "linkedin:4475732942",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquén, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492249445",
+    "titulo": "Ejecutivo/a de Ventas Telefónicas de Productos Intangibles / Zona Norte",
+    "empresa": "Grupo Solvens",
+    "ubicacion": "Vicente López, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/ejecutivo-a-de-ventas-telef%C3%B3nicas-de-productos-intangibles-zona-norte-at-grupo-solvens-4492249445",
+    "descripcion": null,
+    "capturado": "2026-11-20T11:44:29.083787",
+    "id": "linkedin:4492249445",
+    "motivos_descarte": [
+      "ventas: «ventas»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4484710015",
+    "titulo": "Representante Comercial Industrial",
+    "empresa": "Air Liquide",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/representante-comercial-industrial-at-air-liquide-4484710015",
+    "descripcion": null,
+    "capturado": "2026-11-20T11:44:29.083787",
+    "id": "linkedin:4484710015",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4475452134",
+    "titulo": "Enganchador de Perforación",
+    "empresa": "Helmerich & Payne",
+    "ubicacion": "Añelo, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/enganchador-de-perforaci%C3%B3n-at-h-p-4475452134",
+    "descripcion": null,
+    "capturado": "2026-11-20T11:44:29.083787",
+    "id": "linkedin:4475452134",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Añelo, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4432421564",
+    "titulo": "Operador/a de Pala - Proyecto Río Cuarto",
+    "empresa": "Holcim Argentina",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/operador-a-de-pala-proyecto-r%C3%ADo-cuarto-at-holcim-argentina-4432421564",
+    "descripcion": null,
+    "capturado": "2026-11-20T11:44:29.083787",
+    "id": "linkedin:4432421564",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492250437",
+    "titulo": "Ingeniero/a Semi Senior",
+    "empresa": "IMPSA",
+    "ubicacion": "Godoy Cruz, Mendoza, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-19T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/ingeniero-a-semi-senior-at-impsa-4492250437",
+    "descripcion": null,
+    "capturado": "2026-11-20T11:44:29.083787",
+    "id": "linkedin:4492250437",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Godoy Cruz, Mendoza, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
     "portal_id": "4492246608",
     "titulo": "Analista Payroll",
     "empresa": "La Celeste",
@@ -2865,108 +3069,6 @@
     ]
   },
   {
-    "portal": "computrabajo",
-    "portal_id": "01545B27473FE94161373E686DCF3405",
-    "titulo": "Operador/a de Proceso/Empaque Mar del Plata",
-    "empresa": "PEPSICO INTERNACIONAL MEXICO",
-    "ubicacion": "Mar del Plata, Buenos Aires",
-    "modalidad": null,
-    "salario": "$ 2.700.000",
-    "fecha_publicacion": "2026-11-06T08:40:52",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operadora-de-procesoempaque-mar-del-plata-planta-industrial-mar-del-plata-en-mar-del-plata-01545B27473FE94161373E686DCF3405",
-    "descripcion": "PepsiCo, empresa líder en el consumo masivo de alimentos, se encuentra en búsqueda de incorporar un Operador/a de Proceso/Empaque a su equipo de trabajo en Planta Mar del Plata (Argentina), encargado de desarrollar las siguientes funciones: Operar y controlar las estaciones de los distintos procesos productivos de la planta, asegurando el cumplimiento de los estándares de calidad, seguridad y eficiencia establecidos. Funciones del cargo: -Realizar y registrar controles asociados a la operación, asegurando el cumplimiento de los estándares definidos. -Cumplir con las buenas prácticas de manufactura y/o almacenamiento, asegurando la correcta aplicación de los estándares establecidos. -Ejecutar y asegurar el cumplimiento de los estándares de seguridad, calidad, sustentabilidad y medio ambiente en las operaciones. -Cumplir con las normas de calidad e inocuidad, así como con los estándares generales definidos para la operación. -Mantenimiento Autónomo y ejecución de OT de cuidado de equipos/saneado Requisitos: -Educación Técnica. -Curso de manipulación de alimentos. -Conocimientos en mantenimiento y planta industrial. -Disponibilidad para trabajar turnos rotativos. -Disponibilidad para trabajar en Mar del Plata, Argentina. -Requerimientos- Educación mínima: Secundaria 2 años de experiencia Palabras clave: operator, operario, operator, piso, vivienda, inmobiliario, inmueble, condominio, edificio, planta, floor, industry, industrial, industria",
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "computrabajo:01545B27473FE94161373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Mar del Plata, Buenos Aires»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "BC430FA48A40656761373E686DCF3405",
-    "titulo": "Operador/a de maquinaria pesada en Italia",
-    "empresa": "BTI LA SA.",
-    "ubicacion": "Santa Fe, Santa Fe",
-    "modalidad": null,
-    "salario": "$ 5.000.000",
-    "fecha_publicacion": "2026-11-06T08:40:52",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operadora-de-maquinaria-pesada-en-italia-en-santa-fe-BC430FA48A40656761373E686DCF3405",
-    "descripcion": "Identidad Corporativa En la provincia de Udine, Italia - Empresa de referencia en el sector de la construcción, el movimiento de tierras, las obras viales y las obras de infraestructura. Con una sólida trayectoria y un parque de maquinaria moderno y en constante renovación, la organización lidera proyectos de envergadura técnica, combinando eficiencia operativa, rigurosos estándares de seguridad y respeto por el territorio y el medio ambiente. Solidez y Trayectoria: Una estructura empresarial consolidada, con fuerte inversión en equipos de última generación y una cartera de proyectos estable en el territorio. Seguridad y Precisión: Procesos de obra orientados a la calidad de ejecución, la optimización técnica del terreno y el cumplimiento estricto de las normas de prevención de riesgos laborales. Ubicación Estratégica: Operaciones en la provincia de Udine, en la región de Friuli Venezia Giulia, una zona destacada por su alta calidad de vida, su seguridad y un entorno natural e industrial privilegiado en el norte de Italia. Detalles de la Oportunidad Profesional Target: Profesionales con al menos 10 años de experiencia práctica en la conducción y operación de maquinaria pesada de movimiento de tierras, con foco principal en excavadoras hidráulicas de gran porte y bulldozers/topadoras. Sin vértigo. · Puesto: OPERADOR/A DE MAQUINARIA PESADA · Responsabilidades: El Operador de Maquinaria Pesada es responsable de la conducción, maniobra y control operativo de excavadoras y bulldozers en frentes de obra, canteras y proyectos de infraestructura, garantizando la precisión en desmontes, nivelaciones y zanjeos, el cuidado del equipo y el cumplimiento de las normas de seguridad. Modalidad de Trabajo: El trabajo se desarrolla principalmente en trasferta (obras fuera de la sede), con alojamiento en hotel y comidas completamente a cargo de la empresa. Tareas principales Conducir y operar de forma segura y precisa excavadoras y bulldozers en tareas de excavación, desmonte, explanación, nivelación de terrenos, zanjeo y carga de camiones. Interpretar estacas, cotas y planos de nivelación en el terreno para cumplir con las especificaciones técnicas del proyecto. Realizar las inspecciones previas al inicio de cada jornada: niveles de fluidos, sistema hidráulico, tensión de orugas y tren de rodaje, estado de baldes y cuchillas y dispositivos de seguridad. Detectar a tiempo fallas operativas o desgastes mecánicos, reportarlos y colaborar en el mantenimiento preventivo y correctivo de primer nivel. Coordinar las maniobras con el personal en tierra (señaleros, encargados de obra y choferes de camiones), garantizando perímetros de seguridad adecuados. Completar los partes diarios de trabajo y el registro de horas de maquinaria, respetando las disposiciones ambientales y de prevención de riesgos. Competencias requeridas Experiencia Práctica: Mínimo de 10 años de experiencia comprobable en la operación de excavadoras de orugas y de ruedas y de bulldozers en obras viales, civiles o de movimiento de suelos de gran escala. Conocimiento Técnico: Sólido dominio de sistemas hidráulicos, transmisiones y mandos (joysticks y palancas), con nociones mecánicas para el diagnóstico de irregularidades en la máquina. Certificaciones: Licencia o carnet habilitante para maquinaria pesada en el país de origen. En Italia el operador deberá obtener la habilitación correspondiente (patentino macchine movimento terra). Habilidades Operativas: Precisión en el manejo de cuchillas y baldes, destreza en pendientes y terrenos complejos y criterio preventivo de estabilidad. Competencias Personales: Sentido de la responsabilidad, atención al entorno de trabajo, puntualidad, trabajo en equipo y capacidad de adaptación a distintas tipologías de obra. Contratación: Full time, 48 horas semanales, con posibilidad de horas extra remuneradas aparte según el cronograma de obra. Preparación Lingüística: Candidatos que, en los meses de espera entre la firma de la Carta de Intenciones (LOI) y su llegada a Italia, se comprometan a alcanzar un nivel A2 de italiano. Salario (RAL) Indicativo: Retribución Anual Bruta de 30.000 a 35.000, acorde a la experiencia y la calificación técnica demostrada, con posibilidades de progreso continuo. Bienestar Corporativo (Welfare): Beneficios de empresa, bonos por desempeño, cobertura de seguro e inscripción en la Cassa Edile y en el fondo de salud del sector de la construcción. El Welcome Bonus y el Apoyo a la Llegada Para asegurar una reubicación previsible, ordenada y tranquila desde Argentina, la empresa ofrece un plan integral de acompañamiento: Apoyo Habitacional: Si el trabajador lo desea, la empresa pone a su disposición, sin costo, una habitación en un departamento compartido, ya sea de forma estable o solo durante el período inicial, hasta que alquile una vivienda propia. Además, brinda asistencia en la búsqueda de vivienda y garantía corporativa para el contrato de alquiler. Llegada en Familia: Para quienes viajen con su familia, la empresa se hace cargo del costo del alquiler de una vivienda independiente durante los primeros 6 meses. Relocation 360: Gestión integral del visado de trabajo, el permiso de residencia y los trámites migratorios necesarios para la radicación legal, con los servicios de relocation de Back to Italy. Soporte Humano: Acompañamiento de un Cicerone (tutor) dedicado para la obtención del código fiscal, la apertura de la cuenta bancaria, la inscripción en el sistema sanitario nacional y la integración comunitaria. Financiamiento costos de traslado: la empresa financiará los primeros costos de alquiler (depósito). ¿Por qué elegir Italia y Back to Italy? No ofrecemos solo un trabajo; ofrecemos un proyecto de vida a largo plazo. La provincia de Udine ofrece seguridad, servicios públicos de primer nivel y un sector de la construcción con alta demanda de mano de obra especializada, que permite dar un salto de calidad de vida a nivel individual y familiar.-Requerimientos- Educación mínima: Primaria 10 años de experiencia Edad: entre 30 y 45 años Disponibilidad de viajar: Si Disponibilidad de cambio de residencia: Si Palabras clave: operator, operario, operator, machinery, maquinaria",
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "computrabajo:BC430FA48A40656761373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Santa Fe, Santa Fe»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "E278B199CFDA1E6D61373E686DCF3405",
-    "titulo": "Mucama para cobertura eventual",
-    "empresa": "Grupo Gamma",
-    "ubicacion": "Rosario, Santa Fe",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-06T08:39:57",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-mucama-para-cobertura-eventual-en-rosario-E278B199CFDA1E6D61373E686DCF3405",
-    "descripcion": "Grupo Gamma se encuentra en la búsqueda de una Mucama para cobertura eventual en el Bosque Centro medico de Paso del Bosque. Tareas principales: Limpieza de espacios públicos, consultorios e infraestructura. Requisitos y Perfil valorado: *Educación: Excluyente contar con título secundario *Responsabilidad: compromiso y rigurosidad con los procesos de limpieza entendiendo el impacto directo en la salud. *Atención al detalle y autonomía para resolver las tareas asignadas de forma eficiente. *Buena presencia y comunicación *Experiencia: valorable contar con experiencia previa en empresas de servicios, hoteles y/o empresas de salud. *Disponibilidad: lunes a viernes de 14 a 22h, sábados de 6 a 14h. · *Ubicación: Rosario · Esperamos tu postulación!. -Requerimientos- Educación mínima: Secundaria 2 años de experiencia Palabras clave: ama, doncella, governanta, sirviente, attendant, criado, servant",
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "computrabajo:E278B199CFDA1E6D61373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Rosario, Santa Fe»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "45B723C2577E0E6E61373E686DCF3405",
-    "titulo": "Redactor/a de Marketing Digital",
-    "empresa": "FULLPHI S.A.",
-    "ubicacion": "San Nicolás, Capital Federal",
-    "modalidad": "remoto",
-    "salario": null,
-    "fecha_publicacion": "2026-11-06T08:39:51",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-redactora-de-marketing-digital-vacante-freelance-en-san-nicolas-45B723C2577E0E6E61373E686DCF3405",
-    "descripcion": "Buscamos un/a Redactor/a de Marketing Digital con experiencia en copywriting y generación de contenido orientado a conversión. Será responsable de desarrollar contenido para canales digitales alineado con la estrategia de marketing y los objetivos comerciales. La vacante es Remota sin embargo se realizara 1 reunión de equipo mensual presencial, la misma es en CABA por lo que para poder postular es necesario vivir en CABA o Cercanías. Principales Responsabilidades: Redactar contenido para redes sociales, blogs, landing pages, email marketing y campañas digitales. Desarrollar copys para anuncios (Meta Ads, Google Ads, LinkedIn Ads). Adaptar el tono de comunicación según el canal y la audiencia. Optimizar contenido bajo criterios SEO. Revisar y editar textos garantizando calidad, claridad y consistencia. Colaborar con los equipos de Marketing, Diseño y Comercial. Gestionar múltiples proyectos cumpliendo plazos establecidos. Requisitos: Experiencia mínima de 2 años como Redactor Digital, Copywriter o Content Writer. Portfolio excluyente con trabajos publicados. Excelente redacción, ortografía y gramática. Experiencia en copywriting orientado a conversión. Conocimientos de SEO. Manejo de herramientas SEO (SEMrush, Ahrefs o similares). Manejo de herramientas de IA aplicadas a la generación de contenido. Capacidad de investigación, síntesis y adaptación del mensaje a distintos públicos. Experiencia en Google Analytics y Search Console. Conocimiento de WordPress o CMS. Competencias: Redacción persuasiva. Storytelling. Pensamiento estratégico. Organización. Atención al detalle. Orientación a resultados. Trabajo en equipo. KPIs: Calidad del contenido. Cumplimiento de plazos. Posicionamiento SEO. CTR de campañas. Conversión de landing pages y emails. Engagement y tráfico generado. Se solicitará portfolio y prueba técnica durante el proceso de selección. Si lo que leíste te identifica y buscas un cambio, postulate hoy porque te estamos buscando!. -Requerimientos- Educación mínima: Terciario 2 años de experiencia Palabras clave: escritor, writer, redactor, mercadotecnia, marketing, mercadeo, online",
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "computrabajo:45B723C2577E0E6E61373E686DCF3405",
-    "motivos_descarte": [
-      "google_ads: «google ads»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "1578ACE79E7B590661373E686DCF3405",
-    "titulo": "Operador de máquina",
-    "empresa": "Adecco Argentina S.A.",
-    "ubicacion": "Salta, Salta",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-06T07:40:52",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-de-maquina-en-salta-1578ACE79E7B590661373E686DCF3405",
-    "descripcion": "BUSCAMOS TALENTOS, ¡EN ADECCO TE ESTAMOS BUSCANDO! Si te interesa ser OPERADOR DE MÁQUINA en el equipo de nuestro cliente, IMPORTANTE EMPRESA INDUSTRIAL, ¡desafiate a vos mismo y creá tu futuro! ¿QUÉ VALORAMOS DE TU PERFIL? Formación técnica en Electromecánica, Electricidad o Electrónica, con título secundario técnico completo (excluyente). Experiencia previa en empresas de producción industrial. Disponibilidad para trabajar en turnos rotativos y flexibilidad horaria. Se valorará responsabilidad, compromiso y predisposición para el trabajo en equipo. ¿QUÉ TE OFRECEMOS? Posibilidad de incorporarte a una importante empresa del sector industrial. Jornada laboral bajo modalidad de turnos rotativos. Condiciones de contratación a informar durante el proceso de selección. ¡DA EL PASO QUE NECESITÁS! Somos Adecco Argentina una compañía con más de 30 años de experiencia que conecta empresas con talentos, brindando soluciones integrales de Recursos Humanos y buscamos talentos, ¡COMO VOS! Nuestro compromiso, es la diversidad e igualdad de oportunidades somos una empresa inclusiva. Cuando sos parte de nuestros procesos, solo cuentan tus méritos, logros y capacidades, lo hacemos pensando en vos como persona. Participar de nuestros procesos de selección no tiene ningún costo para vos candidato/a, trabajar con vos es parte de nuestro compromiso y tarea con la comunidad. Postulate y participa en una oferta de empleo nuestra. El empleador sólo podrá solicitarle la información estrictamente necesaria para el desempeño en el trabajo que se ofrece. Ciudad de Buenos Aires: ley de búsqueda laboral equitativa - Ley 6471. -Requerimientos- Educación mínima: Secundaria años de experiencia Palabras clave: operator, operario, operator",
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "computrabajo:1578ACE79E7B590661373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Salta, Salta»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "AAFD6B1AF61D934C61373E686DCF3405",
-    "titulo": "Operadores/as de Equipos de Control de Sólidos",
-    "empresa": "ManpowerGroup",
-    "ubicacion": "Añelo, Neuquén",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-06T00:40:52",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operadoresas-de-equipos-de-control-de-solidos-en-anelo-AAFD6B1AF61D934C61373E686DCF3405",
-    "descripcion": "Tenemos una oportunidad para vos! Nos encontramos en la búsqueda de una persona para el puesto de Operador de equipos de control de sólidos. · Desafíos: · Operar y monitorear equipos de control de sólidos durante las operaciones de perforación. · Realizar inspecciones diarias, mantenimiento preventivo básico y limpieza de equipos. · Optimizar el rendimiento de zarandas, centrífugas, desarenadores y deslimadores para maximizar la recuperación de fluidos de perforación. · Monitorear parámetros operativos y reportar condiciones anormales o desviaciones. · Colaborar con el equipo de perforación y fluidos para mantener la eficiencia del sistema de circulación. · Garantizar el cumplimiento de los procedimientos operativos y estándares HSE. · Completar reportes diarios de operación y documentación requerida por el cliente. · Participar en análisis de seguridad, reuniones operativas y programas de mejora continua. · Mantener el orden y la limpieza de los equipos y áreas de trabajo. · Asistir en el montaje, desmontaje y movilización de equipos de control de sólidos cuando sea requerido. · Requisitos: · Experiencia mínima de 2 a 5 años en operaciones de Control de Sólidos. · Experiencia trabajando en equipos de perforación será valorada. · Conocimientos de equipos de control de sólidos: shale shakers, centrífugas, mud cleaners, desanders y desilters. · Conocimiento de fluidos de perforación y procesos de separación mecánica. · Compromiso con la seguridad y el trabajo en equipo. · Capacidad para trabajar en ambientes dinámicos y bajo procedimientos operativos estrictos · Manejo intermedio de herramientas informáticas para carga de reportes. . Secundario técnico completo. · Nivel de ingles intermedio. · Consideraciones para tener en cuenta: · Diagrama 14x7 · Turnos de Trabajo: 12 horas · Locación: Neuquén, pernoctando en yacimiento · Esta posición se realiza en locaciones remotas y es 100% presencial · Requiere realizar tareas físicas o manuales y manejo de datos. Al postularte o avanzar en este proceso, aceptás el tratamiento de tus datos personales conforme a nuestra Política de Privacidad, en cumplimiento de la Ley 25.326. ManpowerGroup Argentina tratará tu información exclusivamente con fines de evaluación y contacto en relación con oportunidades laborales. Podés ejercer tus derechos de acceso, rectificación o supresión cuando lo desees. En ManpowerGroup promovemos una cultura inclusiva y diversa basada en el respeto y en la igualdad de oportunidades.-Requerimientos- Educación mínima: Secundaria 1 año de experiencia",
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "computrabajo:AAFD6B1AF61D934C61373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Añelo, Neuquén»"
-    ]
-  },
-  {
     "portal": "linkedin",
     "portal_id": "4486601298",
     "titulo": "Buscamos Especialista en Estrategia y Creación de Contenidos",
@@ -3118,295 +3220,6 @@
     "id": "linkedin:4486245541",
     "motivos_descarte": [
       "ubicacion fuera de zona: «Añelo, Provincia de Neuquén, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4486948253",
-    "titulo": "GERENCIA BUSINESS CONTROLLING",
-    "empresa": "Holcim",
-    "ubicacion": "Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-06T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/gerencia-business-controlling-at-holcim-4486948253",
-    "descripcion": null,
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "linkedin:4486948253",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4488067506",
-    "titulo": "Responsable Comercial Industrial - Santa Fe",
-    "empresa": "Air Liquide",
-    "ubicacion": "Santa Fe, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-06T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/responsable-comercial-industrial-santa-fe-at-air-liquide-4488067506",
-    "descripcion": null,
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "linkedin:4488067506",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Santa Fe, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "B40091CA5F8E542F61373E686DCF3405",
-    "titulo": "Operador de Equipos Aspiradores",
-    "empresa": "TORK S.A.",
-    "ubicacion": "San Lorenzo, Santa Fe",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-05T17:40:52",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-de-equipos-aspiradores-perfil-mecanico-en-san-lorenzo-B40091CA5F8E542F61373E686DCF3405",
-    "descripcion": "Se busca un operador de Equipos Aspiradores industriales. (camiones aspiradores). Se requiere conocimiento en mecánica automotor pesado, Perkins 4 y Perkins 6 (EXCLUYETE). Perfil técnico mecánico o electromecánico. Se requiere realizar mecánica ligera. Se valorará que sea hábil con herramientas de mano y distintos tipos de soldadura. Posee carnet de conducir: B1 + E1 (EXCLUYENTE) Que resida en la zona de San Lorenzo y alrededores. Disponibilidad para viajar EVENTUALMENTE a Pcia de Bs As. Esperamos tu postulación si cumplir con los requisitos. Se agradece no postularse si no se cumplen los requisitos.-Requerimientos- Educación mínima: Secundaria 3 años de experiencia Edad: entre 25 y 60 años Conocimientos: Conducción, Maquinaria pesada, Mecánica, Mecánica ligera, Operación de equipos Licencias de conducir: B1 ,E1 Disponibilidad de viajar: Si Palabras clave: operator, operario, operator, mechanic, mecanico",
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "computrabajo:B40091CA5F8E542F61373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «San Lorenzo, Santa Fe»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "E01D46E0D57CB6E361373E686DCF3405",
-    "titulo": "Tecnico",
-    "empresa": "Importante empresa del sector",
-    "ubicacion": "Rosario, Santa Fe",
-    "modalidad": null,
-    "salario": "$ 1.300.000",
-    "fecha_publicacion": "2026-11-05T05:40:52",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-operador-equipo-de-senalizacion-horizontal-en-rosario-E01D46E0D57CB6E361373E686DCF3405",
-    "descripcion": "Buscar empresas Las mejores empresas para trabajar en Argentina",
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "computrabajo:E01D46E0D57CB6E361373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Rosario, Santa Fe»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "7911ECF0B19CE0E261373E686DCF3405",
-    "titulo": "Operador CNC",
-    "empresa": "Grupo Gestión",
-    "ubicacion": "Córdoba, Córdoba",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-05T05:40:52",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-cnc-en-cordoba-7911ECF0B19CE0E261373E686DCF3405",
-    "descripcion": "Para importante empresa de zona Norte de nuestra ciudad, seleccionamos OPERADOR CNC. Principales responsabilidades: Operar la máquina CNC, según los programas y especificaciones técnicas. Interpretar planos y documentación técnica, controlar dimensiones y calidad de las piezas fabricadas, realizar cambios de herramientas, corrección de parámetros, etc. Requisitos: experiencia en operaciones de maquinas CNC- Manejo de instrumentos de medición (calibre, micrómetro, etc)- Responsabilidad, compromiso y orientación a los resultados Se valorará: Disponibilidad para incorporación inmediato. Disponibilidad para trabajar en turnos rotativos. Se ofrece: Estabilidad laboral- Posibilidades de desarrollo - Obra Social Prepaga ESPERAMOS TU POESTULACON. -Requerimientos- Educación mínima: Secundaria 3 años de experiencia Edad: entre 25 y 35 años Palabras clave: operator, operario, operator",
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "computrabajo:7911ECF0B19CE0E261373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Córdoba»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "CCD85B37E5A8663661373E686DCF3405",
-    "titulo": "Administrativa de ventas eventual (cobertura de vacaciones)",
-    "empresa": "Con Mor SRL",
-    "ubicacion": "Caseros, Buenos Aires-GBA",
-    "modalidad": null,
-    "salario": "$ 1.160.976",
-    "fecha_publicacion": "2026-11-05T05:39:57",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrativa-de-ventas-eventual-cobertura-de-vacaciones-caseros-bs-as-en-caseros-CCD85B37E5A8663661373E686DCF3405",
-    "descripcion": "ADMINISTRATIVA DE VENTAS – CASEROS Empresa metalúrgica dedicada a la fabricación y comercialización de productos y soluciones para sistemas de acondicionamiento de aire, ubicada en Caseros, Buenos Aires, se encuentra en la búsqueda de una Administrativa de Ventas. Principales tareas: * Atención y asesoramiento a clientes. * Elaboración y seguimiento de cotizaciones. * Gestión y seguimiento de ventas. * Carga y seguimiento de pedidos. * Facturación y emisión de recibos. * Seguimiento de cobranzas. * Coordinación y seguimiento del circuito administrativo-comercial. * Gestión integral del circuito de ventas, desde la cotización hasta la facturación. Requisitos: * Experiencia previa en tareas administrativas y comerciales. * Experiencia en el manejo del circuito completo de ventas. * Conocimientos de Tango o sistemas de gestión similares. * Buen manejo de herramientas informáticas. * Perfil organizado, dinámico y orientado a la atención al cliente. * Residir en Caseros o zonas cercanas. Jornada laboral: Lunes a viernes de 8:30 a 12:00 hs y de 13:00 a 16:00 hs Modalidad de contratación: - Eventual. Durante octubre se realizará la capacitación en las tareas. En noviembre cubrirá el período de vacaciones de una administrativa y, posteriormente, continuará realizando reemplazos de otras integrantes del equipo. Remuneración – CCT UOM, Administrativo/a de 2.ª categoría: * Octubre 2026: $1.160.976 bruto. * Noviembre 2026: $1.187.653 bruto. * Diciembre 2026: $1.219.153 bruto. * Enero 2027: $1.242.469 bruto. Solo postular si está de acuerdo con la remuneración y cuenta con disponibilidad inmediata para trabajar de manera eventual.-Requerimientos- Educación mínima: Secundaria 2 años de experiencia Conocimientos: Administración de ventas, Cotizaciones, Facturación, Tango Palabras clave: cambaceo, sales, tourism, viaje, travel, vacaciones, holidays, turistico, tourist, turismo",
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "computrabajo:CCD85B37E5A8663661373E686DCF3405",
-    "motivos_descarte": [
-      "ventas: «ventas»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "6746100CC196569D61373E686DCF3405",
-    "titulo": "Redactor/a Creativo/a",
-    "empresa": "Agencia Llave",
-    "ubicacion": "Córdoba, Córdoba",
-    "modalidad": null,
-    "salario": "$ 1.299.995",
-    "fecha_publicacion": "2026-11-05T05:39:51",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-redactora-creativoa-junior-en-cordoba-6746100CC196569D61373E686DCF3405",
-    "descripcion": "En LlaveAgencia buscamos un/a Redactor/a Creativo/a Junior que disfrute encontrar ese concepto que cambia una comunicación, descubrir historias donde otros ven un producto y escribir cosas que no parezcan escritas por una marca. Queremos sumar una cabeza inquieta, con curiosidad por la cultura, sensibilidad para detectar insights y ambición por hacer publicidad de la que uno se siente orgulloso. De esa que llama la atención, genera conversación y, por qué no, gana premios. No necesitás experiencia previa: queremos saber como pensas ¡No te olvides de sumar tu porfolio! ¿Qué vas a hacer? Pensar conceptos creativos para campañas y marcas. Desarrollar ideas para contenidos digitales, redes sociales y plataformas. Escribir guiones para reels, videos, spots y piezas audiovisuales. Crear hooks, titulares, manifiestos, slogans y textos publicitarios. Investigar tendencias, comportamientos culturales y conversaciones para encontrar oportunidades creativas. Participar en brainstormings y procesos de conceptualización. Transformar briefs en ideas originales, relevantes y ejecutables. Trabajar junto al equipo creativo para llevar las ideas desde el papel hasta la publicación. ¿Qué buscamos? Estudiantes avanzados o recién graduados de la carrera de Publicidad (EXCLUYENTE) Muy buena capacidad de redacción y síntesis. Curiosidad por la publicidad, la cultura, los comportamientos sociales y el mundo digital. Capacidad para encontrar insights, convertirlos en ideas y conceptualizar. Interés por el storytelling, el copywriting y la creatividad aplicada a las marcas. Apertura para explorar herramientas de IA como apoyo al proceso creativo. Ganas de aprender, recibir feedback, trabajar en equipo y defender ideas. ¿Qué ofrecemos? Participación en proyectos para grandes marcas. Trabajo junto a un equipo estratégico y creativo. Espacio para proponer, experimentar y desarrollar ideas. Participación en campañas, concursos y festivales creativos. Acompañamiento y oportunidades de crecimiento profesional.-Requerimientos- Educación mínima: Terciario años de experiencia Idiomas: Español ,Inglés Edad: entre 22 y 35 años Conocimientos: Comunicación, Comunicación digital, Creatividad, Proactividad, Trabajo en equipo, Creación de contenido, Digital marketing, Redacción creativa, Curiosidad, Analítica de redes sociales, Comunicación digital estratégica, Comunicación publicitaria Disponibilidad de viajar: Si Palabras clave: escritor, writer, redactor, jr, junior",
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "computrabajo:6746100CC196569D61373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Córdoba»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487744563",
-    "titulo": "ASESOR COMERCIAL - Bella Vista (Corrientes)",
-    "empresa": "SanCor Salud Grupo de Medicina Privada",
-    "ubicacion": "Bella Vista, Corrientes, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-05T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/asesor-comercial-bella-vista-corrientes-at-sancor-salud-grupo-de-medicina-privada-4487744563",
-    "descripcion": null,
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "linkedin:4487744563",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Bella Vista, Corrientes, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4482504527",
-    "titulo": "JEFE DE GESTIÓN ADMINISTRATIVA",
-    "empresa": "Jockey Club de Rosario",
-    "ubicacion": "Rosario, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-05T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/jefe-de-gesti%C3%B3n-administrativa-at-jockey-club-de-rosario-4482504527",
-    "descripcion": null,
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "linkedin:4482504527",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4485851544",
-    "titulo": "Operador/a Telefónico/a ART",
-    "empresa": "Avalian",
-    "ubicacion": "Rosario, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-05T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/operador-a-telef%C3%B3nico-a-art-at-avalian-4485851544",
-    "descripcion": null,
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "linkedin:4485851544",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4485883325",
-    "titulo": "Programador",
-    "empresa": "Clinica San Jorge",
-    "ubicacion": "Ushuaia, Provincia de Tierra del Fuego, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-05T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/programador-at-clinica-san-jorge-4485883325",
-    "descripcion": null,
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "linkedin:4485883325",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Ushuaia, Provincia de Tierra del Fuego, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4486591932",
-    "titulo": "EJECUTIVO/A DE CUENTAS - CÓRDOBA",
-    "empresa": "Radio Mitre",
-    "ubicacion": "Córdoba, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-05T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/ejecutivo-a-de-cuentas-c%C3%B3rdoba-at-radio-mitre-4486591932",
-    "descripcion": null,
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "linkedin:4486591932",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4488058505",
-    "titulo": "Ejecutivo Comercial Sr. (Estación General Paz)",
-    "empresa": "Bunge",
-    "ubicacion": "Colonia Gral. Paz, Chaco, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-05T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/ejecutivo-comercial-sr-estaci%C3%B3n-general-paz-at-bunge-4488058505",
-    "descripcion": null,
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "linkedin:4488058505",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Colonia Gral. Paz, Chaco, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4414752876",
-    "titulo": "Boca de Pozo sin experiencia",
-    "empresa": "Helmerich & Payne",
-    "ubicacion": "Añelo, Provincia de Neuquén, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-05T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/boca-de-pozo-sin-experiencia-at-h-p-4414752876",
-    "descripcion": null,
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "linkedin:4414752876",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Añelo, Provincia de Neuquén, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4414750794",
-    "titulo": "Boca de pozo con experiencia",
-    "empresa": "Helmerich & Payne",
-    "ubicacion": "Añelo, Provincia de Neuquén, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-05T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/boca-de-pozo-con-experiencia-at-h-p-4414750794",
-    "descripcion": null,
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "linkedin:4414750794",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Añelo, Provincia de Neuquén, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4488000907",
-    "titulo": "Product Specialist",
-    "empresa": "Siena AI",
-    "ubicacion": "Mendoza, Mendoza, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-05T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/product-specialist-at-siena-ai-4488000907",
-    "descripcion": null,
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "linkedin:4488000907",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Mendoza, Mendoza, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4488003816",
-    "titulo": "Software Engineer, Platform Experience",
-    "empresa": "Siena AI",
-    "ubicacion": "Mendoza, Mendoza, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-05T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/software-engineer-platform-experience-at-siena-ai-4488003816",
-    "descripcion": null,
-    "capturado": "2026-11-06T11:39:47.166059",
-    "id": "linkedin:4488003816",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Mendoza, Mendoza, Argentina»"
     ]
   }
 ]
