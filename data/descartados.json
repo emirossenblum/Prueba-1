@@ -1,6 +1,142 @@
 [
   {
     "portal": "linkedin",
+    "portal_id": "4492385015",
+    "titulo": "Chef pastelero",
+    "empresa": "El cóndor Coffee shop",
+    "ubicacion": "Mar del Plata, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-23T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/chef-pastelero-at-el-c%C3%B3ndor-coffee-shop-4492385015",
+    "descripcion": null,
+    "capturado": "2026-11-23T11:40:28.339436",
+    "id": "linkedin:4492385015",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Mar del Plata, Provincia de Buenos Aires, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492355998",
+    "titulo": "Odontopediatra",
+    "empresa": "LaserCenter Academia",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-23T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/odontopediatra-4492355998",
+    "descripcion": null,
+    "capturado": "2026-11-23T11:40:28.339436",
+    "id": "linkedin:4492355998",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492367793",
+    "titulo": "Técnico audiovisual",
+    "empresa": "radio de one online",
+    "ubicacion": "Rosario y alrededores",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-23T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/t%C3%A9cnico-audiovisual-4492367793",
+    "descripcion": null,
+    "capturado": "2026-11-23T11:40:28.339436",
+    "id": "linkedin:4492367793",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Rosario y alrededores»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4489651290",
+    "titulo": "Field Specialist III - LWD/DD_FLD-H",
+    "empresa": "Baker Hughes",
+    "ubicacion": "Neuquén, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-23T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/field-specialist-iii-lwd-dd-fld-h-at-baker-hughes-4489651290",
+    "descripcion": null,
+    "capturado": "2026-11-23T11:40:28.339436",
+    "id": "linkedin:4489651290",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquén, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4493369490",
+    "titulo": "Customer Service & Sales Agent",
+    "empresa": "AGS Youth Soccer Club",
+    "ubicacion": "San Miguel de Tucumán, Tucumán, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-22T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/customer-service-sales-agent-at-ags-youth-soccer-club-4493369490",
+    "descripcion": null,
+    "capturado": "2026-11-23T11:40:28.339436",
+    "id": "linkedin:4493369490",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «San Miguel de Tucumán, Tucumán, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4423266771",
+    "titulo": "Boca de Pozo sin experiencia",
+    "empresa": "Helmerich & Payne",
+    "ubicacion": "Añelo, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-22T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/boca-de-pozo-sin-experiencia-at-h-p-4423266771",
+    "descripcion": null,
+    "capturado": "2026-11-23T11:40:28.339436",
+    "id": "linkedin:4423266771",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Añelo, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4438756512",
+    "titulo": "Digital IC Design Engineer",
+    "empresa": "Marvell Technology",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-22T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/digital-ic-design-engineer-at-marvell-technology-4438756512",
+    "descripcion": null,
+    "capturado": "2026-11-23T11:40:28.339436",
+    "id": "linkedin:4438756512",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4401609410",
+    "titulo": "Profesionales con Experiencia (Genérico)",
+    "empresa": "SLB",
+    "ubicacion": "Neuquén, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-22T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/profesionales-con-experiencia-gen%C3%A9rico-at-slb-4401609410",
+    "descripcion": null,
+    "capturado": "2026-11-23T11:40:28.339436",
+    "id": "linkedin:4401609410",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquén, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
     "portal_id": "4492874439",
     "titulo": "Cajero/a - Sucursal Virasoro-Corrientes",
     "empresa": "GRUPO CETROGAR",
@@ -3031,159 +3167,6 @@
     "id": "linkedin:4488894999",
     "motivos_descarte": [
       "ingles_alto: «ingles avanzado»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487652959",
-    "titulo": "BIM Modeler",
-    "empresa": "3DE BIM",
-    "ubicacion": "Córdoba, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-09T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/bim-modeler-at-3de-bim-4487652959",
-    "descripcion": null,
-    "capturado": "2026-11-09T11:40:51.204976",
-    "id": "linkedin:4487652959",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4488848286",
-    "titulo": "CADRE SUPERIEUR DE SANTE - PÔLE DE PSYCHIATRIE ET INFANTO-JUVÉNILE",
-    "empresa": "CENTRE HOSPITALIER DE JONZAC",
-    "ubicacion": "Cañada de Gómez, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-09T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/cadre-superieur-de-sante-p%C3%B4le-de-psychiatrie-et-infanto-juv%C3%A9nile-at-centre-hospitalier-de-jonzac-4488848286",
-    "descripcion": null,
-    "capturado": "2026-11-09T11:40:51.204976",
-    "id": "linkedin:4488848286",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Cañada de Gómez, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487120315",
-    "titulo": "mecánico en tren delantero y alineación y balanceo",
-    "empresa": "Conte Hnos",
-    "ubicacion": "Rosario, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-09T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/mec%C3%A1nico-en-tren-delantero-y-alineaci%C3%B3n-y-balanceo-4487120315",
-    "descripcion": null,
-    "capturado": "2026-11-09T11:40:51.204976",
-    "id": "linkedin:4487120315",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4427047342",
-    "titulo": "Técnico de Mantenimiento Predictivo (Zona Rosario)",
-    "empresa": "SKF Group",
-    "ubicacion": "Rosario, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-09T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-predictivo-zona-rosario-at-skf-group-4427047342",
-    "descripcion": null,
-    "capturado": "2026-11-09T11:40:51.204976",
-    "id": "linkedin:4427047342",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4488806769",
-    "titulo": "Tuyển giáo viên và nhân viên tiếng Nhật",
-    "empresa": "Du học Nhật Bản Thanh Giang",
-    "ubicacion": "Cutral Có, Provincia de Neuquén, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-09T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/tuy%E1%BB%83n-gi%C3%A1o-vi%C3%AAn-v%C3%A0-nh%C3%A2n-vi%C3%AAn-ti%E1%BA%BFng-nh%E1%BA%ADt-at-du-h%E1%BB%8Dc-nh%E1%BA%ADt-b%E1%BA%A3n-thanh-giang-4488806769",
-    "descripcion": null,
-    "capturado": "2026-11-09T11:40:51.204976",
-    "id": "linkedin:4488806769",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Cutral Có, Provincia de Neuquén, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4470172856",
-    "titulo": "Ingeniero Agrónomo Junior",
-    "empresa": "Costa Farms",
-    "ubicacion": "Santo Domingo, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-08T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/ingeniero-agr%C3%B3nomo-junior-at-costa-farms-4470172856",
-    "descripcion": null,
-    "capturado": "2026-11-09T11:40:51.204976",
-    "id": "linkedin:4470172856",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Santo Domingo, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4463657016",
-    "titulo": "Lead Field Service Representative - Rosario",
-    "empresa": "Nalco Water, An Ecolab Company",
-    "ubicacion": "Rosario, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-08T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/lead-field-service-representative-rosario-at-nalco-water-an-ecolab-company-4463657016",
-    "descripcion": null,
-    "capturado": "2026-11-09T11:40:51.204976",
-    "id": "linkedin:4463657016",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4488804035",
-    "titulo": "Advisor - SHES",
-    "empresa": "Orica",
-    "ubicacion": "Jujuy, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-08T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/advisor-shes-at-orica-4488804035",
-    "descripcion": null,
-    "capturado": "2026-11-09T11:40:51.204976",
-    "id": "linkedin:4488804035",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Jujuy, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4486692800",
-    "titulo": "BALANCERO/A",
-    "empresa": "Louis Dreyfus Company",
-    "ubicacion": "General Levalle, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-08T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/balancero-a-at-louis-dreyfus-company-4486692800",
-    "descripcion": null,
-    "capturado": "2026-11-09T11:40:51.204976",
-    "id": "linkedin:4486692800",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «General Levalle, Córdoba, Argentina»"
     ]
   }
 ]
