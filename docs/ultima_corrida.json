@@ -1,5 +1,5 @@
 {
-  "inicio": "2026-11-24T11:43:46.602831",
+  "inicio": "2026-11-25T11:45:18.198095",
   "ventana_horas": 48,
   "terminos": [
     "periodista deportivo",
@@ -26,35 +26,13 @@
   ],
   "portales": {
     "bumeran": {
-      "estado": "error",
+      "estado": "ok",
       "encontrados": 0,
-      "errores": [
-        "periodista deportivo: HTTP 403",
-        "cronista: HTTP 403",
-        "redactor: HTTP 403",
-        "operador de sonido: HTTP 403",
-        "comunicador: HTTP 403",
-        "periodista: HTTP 403",
-        "productor periodístico: HTTP 403",
-        "editor web: HTTP 403",
-        "cobertura: HTTP 403",
-        "fútbol: HTTP 403",
-        "operador de audio: HTTP 403",
-        "Operador de consola: HTTP 403",
-        "Operador de estudio: HTTP 403",
-        "Operador de radio: HTTP 403",
-        "Productor radial: HTTP 403",
-        "Operador de aire: HTTP 403",
-        "Operador técnico: HTTP 403",
-        "Técnico de sonido: HTTP 403",
-        "Sonidista: HTTP 403",
-        "Productor de transmisiones deportivas: HTTP 403",
-        "Transmisiones deportivas: HTTP 403"
-      ]
+      "errores": []
     },
     "computrabajo": {
       "estado": "ok",
-      "encontrados": 36,
+      "encontrados": 59,
       "errores": []
     },
     "weremoto": {
@@ -86,39 +64,39 @@
     },
     "linkedin": {
       "estado": "ok",
-      "encontrados": 160,
+      "encontrados": 164,
       "errores": []
     },
     "indeed": {
       "estado": "error",
       "encontrados": 0,
       "errores": [
-        "periodista deportivo: Indeed respondió HTTP 401",
-        "cronista: Indeed respondió HTTP 401",
-        "redactor: Indeed respondió HTTP 401",
-        "operador de sonido: Indeed respondió HTTP 401",
-        "comunicador: Indeed respondió HTTP 401",
-        "periodista: Indeed respondió HTTP 401",
-        "productor periodístico: Indeed respondió HTTP 401",
-        "editor web: Indeed respondió HTTP 401",
-        "cobertura: Indeed respondió HTTP 401",
-        "fútbol: Indeed respondió HTTP 401",
-        "operador de audio: Indeed respondió HTTP 401",
-        "Operador de consola: Indeed respondió HTTP 401",
-        "Operador de estudio: Indeed respondió HTTP 401",
-        "Operador de radio: Indeed respondió HTTP 401",
-        "Productor radial: Indeed respondió HTTP 401",
-        "Operador de aire: Indeed respondió HTTP 401",
-        "Operador técnico: Indeed respondió HTTP 401",
-        "Técnico de sonido: Indeed respondió HTTP 401",
-        "Sonidista: Indeed respondió HTTP 401",
-        "Productor de transmisiones deportivas: Indeed respondió HTTP 401",
-        "Transmisiones deportivas: Indeed respondió HTTP 401"
+        "periodista deportivo: HTTP 403",
+        "cronista: HTTP 403",
+        "redactor: HTTP 403",
+        "operador de sonido: HTTP 403",
+        "comunicador: HTTP 403",
+        "periodista: HTTP 403",
+        "productor periodístico: HTTP 403",
+        "editor web: HTTP 403",
+        "cobertura: HTTP 403",
+        "fútbol: HTTP 403",
+        "operador de audio: HTTP 403",
+        "Operador de consola: HTTP 403",
+        "Operador de estudio: HTTP 403",
+        "Operador de radio: HTTP 403",
+        "Productor radial: HTTP 403",
+        "Operador de aire: HTTP 403",
+        "Operador técnico: HTTP 403",
+        "Técnico de sonido: HTTP 403",
+        "Sonidista: HTTP 403",
+        "Productor de transmisiones deportivas: HTTP 403",
+        "Transmisiones deportivas: HTTP 403"
       ]
     }
   },
-  "fin": "2026-11-24T11:51:32.990218",
-  "nuevos_totales": 66,
-  "publicados": 51,
-  "descartados": 15
+  "fin": "2026-11-25T11:53:40.832477",
+  "nuevos_totales": 63,
+  "publicados": 50,
+  "descartados": 13
 }

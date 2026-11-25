@@ -1,6 +1,229 @@
 [
   {
     "portal": "linkedin",
+    "portal_id": "4493051444",
+    "titulo": "Asistente de marketing",
+    "empresa": "GRUPO GIAMA",
+    "ubicacion": "Mar del Plata, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-25T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/asistente-de-marketing-at-grupo-giama-4493051444",
+    "descripcion": null,
+    "capturado": "2026-11-25T11:45:18.198095",
+    "id": "linkedin:4493051444",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Mar del Plata, Provincia de Buenos Aires, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4492308656",
+    "titulo": "Creador de Contenidos & social media para Redes Sociales",
+    "empresa": "Flomar Pescados y Mariscos",
+    "ubicacion": "Rosario, Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-25T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/creador-de-contenidos-social-media-para-redes-sociales-at-flomar-pescados-y-mariscos-4492308656",
+    "descripcion": null,
+    "capturado": "2026-11-25T11:45:18.198095",
+    "id": "linkedin:4492308656",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4494903305",
+    "titulo": "CSR for offshore Geophysical and Geotechnical",
+    "empresa": "IOTA GROUP",
+    "ubicacion": "Río Grande, Provincia de Tierra del Fuego, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-25T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/csr-for-offshore-geophysical-and-geotechnical-at-iota-group-4494903305",
+    "descripcion": null,
+    "capturado": "2026-11-25T11:45:18.198095",
+    "id": "linkedin:4494903305",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Río Grande, Provincia de Tierra del Fuego, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4493408418",
+    "titulo": "Spanish Medical Interpreter",
+    "empresa": "AI Talent Hope",
+    "ubicacion": "Córdoba y alrededores, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-25T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/spanish-medical-interpreter-at-ai-talent-hope-4493408418",
+    "descripcion": null,
+    "capturado": "2026-11-25T11:45:18.198095",
+    "id": "linkedin:4493408418",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba y alrededores, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4493003791",
+    "titulo": "Especialista técnico",
+    "empresa": "estudio de Agrimensura Locatelli",
+    "ubicacion": "Avellaneda, Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-25T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/especialista-t%C3%A9cnico-4493003791",
+    "descripcion": null,
+    "capturado": "2026-11-25T11:45:18.198095",
+    "id": "linkedin:4493003791",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Avellaneda, Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "3D68961A617F3B8261373E686DCF3405",
+    "titulo": "Técnico de Mantenimiento Gral (Cobertura de Vacaciones)",
+    "empresa": "Limpiolux S.A.",
+    "ubicacion": "Bahía Blanca, Buenos Aires",
+    "modalidad": null,
+    "salario": "$ 1.200.000",
+    "fecha_publicacion": "2026-11-24T13:45:25",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-mantenimiento-gral-cobertura-de-vacaciones-bahia-blanca-en-bahia-blanca-3D68961A617F3B8261373E686DCF3405",
+    "descripcion": "Descripción: Sumate a nuestro equipo como Técnico de Mantenimiento. Buscamos perfiles resolutivos con buena base en arreglos edilicios para brindar soporte en las sedes de importantes clientes. Para cobertura de vacaciones. Tareas principales: -Mantenimiento edilicio general. -Realizar mantenimiento preventivo y correctivo en instalaciones eléctricas de media y baja tensión, tableros generales y seccionales. -Ejecutar mantenimiento preventivo y correctivo de equipos de aire acondicionado -Ejecutar rondas de inspección general en las instalaciones del cliente para detectar desvíos y dar soporte operativo a los técnicos especialistas. Requisitos: Conocimientos sólidos en electricidad/refrigeración/AA y mantenimiento general. Título secundario completo de preferencia técnico. Disponibilidad para trabajar en Bahía Blanca de lunes a viernes (8 a 17 hs) y sábados (8 a 12 hs). Disponibilidad para moverse entre clientes Te ofrecemos: Contratación directa, ropa de trabajo, herramientas y el respaldo de una empresa en constante crecimiento.-Requerimientos- Educación mínima: Secundaria 2 años de experiencia Conocimientos: Inspección, Instalaciones eléctricas, Mantenimiento correctivo, Mantenimiento preventivo Palabras clave: tecnologo, tecnico, tech, technician, technology, tecnologia, technologist, maintenance, conservacion, conservation, mantenimiento, tourism, viaje, travel, vacaciones, holidays, turistico, tourist, turismo",
+    "capturado": "2026-11-25T11:45:18.198095",
+    "id": "computrabajo:3D68961A617F3B8261373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Bahía Blanca, Buenos Aires»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4493051172",
+    "titulo": "Analista de Seguridad e Higiene-NQN-MDZ",
+    "empresa": "COTO",
+    "ubicacion": "Neuquen, Provincia de Neuquén, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-24T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/analista-de-seguridad-e-higiene-nqn-mdz-at-coto-4493051172",
+    "descripcion": null,
+    "capturado": "2026-11-25T11:45:18.198095",
+    "id": "linkedin:4493051172",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Neuquen, Provincia de Neuquén, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4494157370",
+    "titulo": "Asesor/a de Ventas Seguros de Vida, Retiro e Inversión - Río Cuarto",
+    "empresa": "Grupo Sancor Seguros",
+    "ubicacion": "Córdoba y alrededores, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-24T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/asesor-a-de-ventas-seguros-de-vida-retiro-e-inversi%C3%B3n-r%C3%ADo-cuarto-at-grupo-sancor-seguros-4494157370",
+    "descripcion": null,
+    "capturado": "2026-11-25T11:45:18.198095",
+    "id": "linkedin:4494157370",
+    "motivos_descarte": [
+      "ventas: «ventas»",
+      "ubicacion fuera de zona: «Córdoba y alrededores, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4494406112",
+    "titulo": "Supervisor/a Técnico/a - Geocycle (Cordoba)",
+    "empresa": "Holcim Argentina",
+    "ubicacion": "Malagueño, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-24T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/supervisor-a-t%C3%A9cnico-a-geocycle-cordoba-at-holcim-argentina-4494406112",
+    "descripcion": null,
+    "capturado": "2026-11-25T11:45:18.198095",
+    "id": "linkedin:4494406112",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Malagueño, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4494141110",
+    "titulo": "Operador/a de Ventas Telefónicas Bancario",
+    "empresa": "LinkSolution",
+    "ubicacion": "Noroeste, Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-24T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/operador-a-de-ventas-telef%C3%B3nicas-bancario-at-linksolution-4494141110",
+    "descripcion": null,
+    "capturado": "2026-11-25T11:45:18.198095",
+    "id": "linkedin:4494141110",
+    "motivos_descarte": [
+      "ventas: «ventas»",
+      "ubicacion fuera de zona: «Noroeste, Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4494133429",
+    "titulo": "Operador de ventas Telefonicas Trading Financiero",
+    "empresa": "LinkSolution",
+    "ubicacion": "Buenos Aires, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-24T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/operador-de-ventas-telefonicas-trading-financiero-at-linksolution-4494133429",
+    "descripcion": null,
+    "capturado": "2026-11-25T11:45:18.198095",
+    "id": "linkedin:4494133429",
+    "motivos_descarte": [
+      "ventas: «ventas»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4493053418",
+    "titulo": "Sales Development Representative Bilingüe (Part-time)",
+    "empresa": "Solvo Global Careers",
+    "ubicacion": "Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-24T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/sales-development-representative-biling%C3%BCe-part-time-at-solvo-global-careers-4493053418",
+    "descripcion": null,
+    "capturado": "2026-11-25T11:45:18.198095",
+    "id": "linkedin:4493053418",
+    "motivos_descarte": [
+      "ingles_alto: «bilingue»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4494380307",
+    "titulo": "Asesor Comercial de Seguros",
+    "empresa": "Rehire",
+    "ubicacion": "La Plata, Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-24T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/asesor-comercial-de-seguros-at-rehire-4494380307",
+    "descripcion": null,
+    "capturado": "2026-11-25T11:45:18.198095",
+    "id": "linkedin:4494380307",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «La Plata, Provincia de Buenos Aires, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
     "portal_id": "4486424644",
     "titulo": "Inbound Sales Consultant",
     "empresa": "MoveSmart Rentals",
@@ -2877,313 +3100,6 @@
     "id": "linkedin:4489071171",
     "motivos_descarte": [
       "ubicacion fuera de zona: «Molino Público, Provincia de Entre Ríos, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4482018776",
-    "titulo": "Supervisor Construcción de Caminos de Montaña en Minería",
-    "empresa": "Fluor Corporation",
-    "ubicacion": "San Juan, San Juan, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/supervisor-construcci%C3%B3n-de-caminos-de-monta%C3%B1a-en-miner%C3%ADa-at-fluor-corporation-4482018776",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4482018776",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «San Juan, San Juan, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487823148",
-    "titulo": "Auditor/a de Ventas",
-    "empresa": "Elevia Academy",
-    "ubicacion": "Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/auditor-a-de-ventas-at-elevia-academy-4487823148",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4487823148",
-    "motivos_descarte": [
-      "ventas: «ventas»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4480736533",
-    "titulo": "Analista de Portabilidad Numérica",
-    "empresa": "Claro Argentina",
-    "ubicacion": "Córdoba, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/analista-de-portabilidad-num%C3%A9rica-at-claro-argentina-4480736533",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4480736533",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4489667991",
-    "titulo": "Guardia de Seguridad Tienda Entrada",
-    "empresa": "Allied Universal",
-    "ubicacion": "San Juan, San Juan, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/guardia-de-seguridad-tienda-entrada-at-allied-universal-4489667991",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4489667991",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «San Juan, San Juan, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4489674816",
-    "titulo": "Technical Specialist 1, Protection, Control, and Automation",
-    "empresa": "LUMA Energy",
-    "ubicacion": "San Juan, San Juan, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/technical-specialist-1-protection-control-and-automation-at-luma-energy-4489674816",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4489674816",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «San Juan, San Juan, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487880143",
-    "titulo": "Online telephone customer service",
-    "empresa": "Kary Group",
-    "ubicacion": "La Plata, Provincia de Buenos Aires, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/online-telephone-customer-service-at-kary-group-4487880143",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4487880143",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «La Plata, Provincia de Buenos Aires, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4488208733",
-    "titulo": "RESPONSABLE DE OPERACIÓN",
-    "empresa": "SAI Medicine",
-    "ubicacion": "Córdoba, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/responsable-de-operaci%C3%B3n-at-sai-medicine-4488208733",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4488208733",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487490142",
-    "titulo": "Sports Match Reporter / Data Scout – Argentina Oliva",
-    "empresa": "FeedConstruct",
-    "ubicacion": "Oliva, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/sports-match-reporter-data-scout-%E2%80%93-argentina-oliva-at-feedconstruct-4487490142",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4487490142",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Oliva, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487810630",
-    "titulo": "Técnico de marketing",
-    "empresa": "Rhino 4x4",
-    "ubicacion": "Córdoba y alrededores, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/t%C3%A9cnico-de-marketing-4487810630",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4487810630",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba y alrededores, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4489611412",
-    "titulo": "Accounting Manager - Client Accounting & Advisory Services",
-    "empresa": "Convoy Finance",
-    "ubicacion": "San Miguel de Tucumán, Tucumán, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/accounting-manager-client-accounting-advisory-services-at-convoy-finance-4489611412",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4489611412",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «San Miguel de Tucumán, Tucumán, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487807784",
-    "titulo": "Ingeniero de Performance – Fluidos de Perforación y Control de Sólidos - NEUQUÉN",
-    "empresa": "Oil & Gas Solutions Partners",
-    "ubicacion": "Neuquen, Provincia de Neuquén, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/ingeniero-de-performance-%E2%80%93-fluidos-de-perforaci%C3%B3n-y-control-de-s%C3%B3lidos-neuqu%C3%A9n-4487807784",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4487807784",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Neuquen, Provincia de Neuquén, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487806556",
-    "titulo": "JEFE SALA REAL TIME PULLING",
-    "empresa": "YPF SA",
-    "ubicacion": "Neuquen, Provincia de Neuquén, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/jefe-sala-real-time-pulling-at-ypf-4487806556",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4487806556",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Neuquen, Provincia de Neuquén, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487801623",
-    "titulo": "JEFE DE SALA REAL TIME ISQ/WT/DES",
-    "empresa": "YPF SA",
-    "ubicacion": "Neuquen, Provincia de Neuquén, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/jefe-de-sala-real-time-isq-wt-des-at-ypf-4487801623",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4487801623",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Neuquen, Provincia de Neuquén, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4489469333",
-    "titulo": "Asesora de ventas (Formosa)",
-    "empresa": "SP Risk Service",
-    "ubicacion": "Formosa, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/asesora-de-ventas-formosa-at-sp-risk-service-4489469333",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4489469333",
-    "motivos_descarte": [
-      "ventas: «ventas»",
-      "ubicacion fuera de zona: «Formosa, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487808855",
-    "titulo": "Coordinador/a Técnico Comercial - Zona Litoral",
-    "empresa": "Pirelli",
-    "ubicacion": "Rosario, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/coordinador-a-t%C3%A9cnico-comercial-zona-litoral-at-pirelli-4487808855",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4487808855",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Rosario, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487819647",
-    "titulo": "Sales & Operations Manager (Bilingual C1 English & Spanish)",
-    "empresa": "AI Case Leads",
-    "ubicacion": "Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/sales-operations-manager-bilingual-c1-english-spanish-at-ai-case-leads-4487819647",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4487819647",
-    "motivos_descarte": [
-      "ingles_alto: «bilingual»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487815782",
-    "titulo": "Operador de Maquinaria Pesada / Equipos Mineros (Catamarca)",
-    "empresa": "Randstad Argentina",
-    "ubicacion": "Catamarca, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/operador-de-maquinaria-pesada-equipos-mineros-catamarca-at-randstad-argentina-4487815782",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4487815782",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Catamarca, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4487809746",
-    "titulo": "Operador de Materiales  - Villa Mercedes (San Luis) - Eventual",
-    "empresa": "Newsan",
-    "ubicacion": "Villa Mercedes, San Luis, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-10T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/operador-de-materiales-villa-mercedes-san-luis-eventual-at-newsan-4487809746",
-    "descripcion": null,
-    "capturado": "2026-11-11T11:42:11.501369",
-    "id": "linkedin:4487809746",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Villa Mercedes, San Luis, Argentina»"
     ]
   }
 ]
