@@ -1,6 +1,108 @@
 [
   {
     "portal": "linkedin",
+    "portal_id": "4494996202",
+    "titulo": "CRONISTA PARA MITRE INFORMA PRIMERO",
+    "empresa": "Radio Mitre",
+    "ubicacion": "Mendoza y alrededores",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-26T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/cronista-para-mitre-informa-primero-at-radio-mitre-4494996202",
+    "descripcion": null,
+    "capturado": "2026-11-26T11:44:52.260952",
+    "id": "linkedin:4494996202",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Mendoza y alrededores»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4493487808",
+    "titulo": "Director General",
+    "empresa": "Medio de comunicación multiplataforma",
+    "ubicacion": "Charata, Chaco, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-26T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/director-general-4493487808",
+    "descripcion": null,
+    "capturado": "2026-11-26T11:44:52.260952",
+    "id": "linkedin:4493487808",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Charata, Chaco, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4495239201",
+    "titulo": "Tablerista (Sala de Control) - Capdeville",
+    "empresa": "Holcim Argentina",
+    "ubicacion": "Capdeville, Mendoza, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-26T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/tablerista-sala-de-control-capdeville-at-holcim-argentina-4495239201",
+    "descripcion": null,
+    "capturado": "2026-11-26T11:44:52.260952",
+    "id": "linkedin:4495239201",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Capdeville, Mendoza, Argentina»"
+    ]
+  },
+  {
+    "portal": "computrabajo",
+    "portal_id": "64E585493045D39961373E686DCF3405",
+    "titulo": "Operador Técnico de Planta",
+    "empresa": "ManpowerGroup",
+    "ubicacion": "Ushuaia, Tierra del Fuego",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-25T16:51:35",
+    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-tecnico-de-planta-eventual-en-ushuaia-64E585493045D39961373E686DCF3405",
+    "descripcion": "Zona de Trabajo: Usuahia Jornada Laboral: FULL TIME , esquema 4x4 Esquema de Empleo: Presencial Modalidad de Contratación: EVENTUAL Nos encontramos en la búsqueda de un/a Operador Técnico de planta para sumarse a una importante compañía del sector energético. Buscamos personas con perfil técnico, orientación a la seguridad, compromiso con los procedimientos operativos y capacidad para trabajar en equipo en entornos industriales. Principales responsabilidades: Carga y descarga de camiones de GLP. Realizar controles operativos en las instalaciones de cargadero y descargadero. Ejecutar controles de calidad sobre los productos durante las operaciones de carga y descarga. Capacitar a choferes ingresantes sobre procedimientos operativos y normas de seguridad. Registrar información operativa y administrativa en sistemas informáticos. Brindar soporte al Supervisor de Turno en las operaciones . Operar y colaborar en el mantenimiento de los sistemas contra incendio y equipos de emergencia. Cumplir con las normas de Seguridad, Higiene y Medio Ambiente establecidas por la compañía. Requisitos Excluyentes: Técnico Mecánico, Electromecánico, Eléctrico o carreras afines. Conocimientos básicos de Excel. Disponibilidad para trabajar en planta industrial. Valoraremos: Experiencia en operaciones industriales, logística, petróleo y gas, energía o procesos productivos. Conocimientos en seguridad operativa y sistemas de emergencia. Experiencia en manejo de productos inflamables o peligrosos. Al postularte o avanzar en este proceso, aceptás el tratamiento de tus datos personales conforme a nuestra Política de Privacidad, en cumplimiento de la Ley 25.326. ManpowerGroup Argentina tratará tu información exclusivamente con fines de evaluación y contacto en relación con oportunidades laborales. Podés ejercer tus derechos de acceso, rectificación o supresión cuando lo desees. En ManpowerGroup promovemos una cultura inclusiva y diversa basada en el respeto y en la igualdad de oportunidades.-Requerimientos- Educación mínima: Secundaria 1 año de experiencia Edad: entre 25 y 45 años Palabras clave: operator, operario, operator, tecnologo, tecnico, tech, technician, technology, tecnologia, technologist, piso, vivienda, inmobiliario, inmueble, condominio, edificio, planta, floor",
+    "capturado": "2026-11-26T11:44:52.260952",
+    "id": "computrabajo:64E585493045D39961373E686DCF3405",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Ushuaia, Tierra del Fuego»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4494626901",
+    "titulo": "Vendedor telefónico Inbound",
+    "empresa": "Voicenter S.A.",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-25T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/vendedor-telef%C3%B3nico-inbound-at-voicenter-s-a-4494626901",
+    "descripcion": null,
+    "capturado": "2026-11-26T11:44:52.260952",
+    "id": "linkedin:4494626901",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4493419436",
+    "titulo": "Representante de desarrollo de ventas  |  SDR (para mercado español)",
+    "empresa": "EmpleosSD",
+    "ubicacion": "Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-25T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/representante-de-desarrollo-de-ventas%C2%A0-%C2%A0-sdr-para-mercado-espa%C3%B1ol-at-empleossd-4493419436",
+    "descripcion": null,
+    "capturado": "2026-11-26T11:44:52.260952",
+    "id": "linkedin:4493419436",
+    "motivos_descarte": [
+      "ventas: «ventas»"
+    ]
+  },
+  {
+    "portal": "linkedin",
     "portal_id": "4493051444",
     "titulo": "Asistente de marketing",
     "empresa": "GRUPO GIAMA",
@@ -2792,314 +2894,6 @@
     "id": "linkedin:4490524025",
     "motivos_descarte": [
       "ubicacion fuera de zona: «Neuquén, Provincia de Neuquén, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4485445052",
-    "titulo": "Telefonista",
-    "empresa": "AGUAS JELSI SA",
-    "ubicacion": "Córdoba, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-12T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/telefonista-at-aguas-jelsi-sa-4485445052",
-    "descripcion": null,
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "linkedin:4485445052",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "95477ACCA29DCB3761373E686DCF3405",
-    "titulo": "Jefe/a Técnico/a de Electrónica (Complejo Comercial y de Entretenimiento) / Cipolletti",
-    "empresa": "Estudio Sanchez Salas y Asoc. S.R.L.",
-    "ubicacion": "Cipolletti, Río Negro",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T19:46:24",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefea-tecnicoa-de-electronica-complejo-comercial-y-de-entretenimiento-cipolletti-en-cipolletti-95477ACCA29DCB3761373E686DCF3405",
-    "descripcion": "Nos encontramos en la búsqueda de un/a Jefe/a Técnico/a de Electrónica para incorporarse a una importante empresa del sector comercial y de entretenimiento, con operaciones en la ciudad de Cipolletti. Orientamos la búsqueda a profesionales con experiencia en el mantenimiento y la reparación de máquinas de juego electrónicas y en la conducción de equipos técnicos, dentro de salas de juego o casinos. Tendrá 15 técnicos a cargo. · Principales responsabilidades: - Planificar, coordinar y supervisar el mantenimiento preventivo y correctivo del parque de máquinas slots y sus periféricos (billeteros, impresoras de tickets, monitores, sistemas de iluminación y sonido). - Liderar y organizar al equipo técnico: asignar tareas y turnos y hacer el seguimiento de las intervenciones. - Diagnosticar y resolver fallas de hardware y software en las máquinas, minimizando el tiempo fuera de servicio. - Coordinar la instalación, la reubicación, el cambio de juegos y la configuración de las máquinas en el salón. - Velar por la integridad del sistema de control online y su conexión con las máquinas, en coordinación con las áreas de Sistemas y de Control. - Asegurar el cumplimiento de la normativa del organismo regulador de juegos de azar y de los procedimientos internos (precintos, registros de intervención, auditorías). - Gestionar repuestos, insumos y la relación con proveedores y fabricantes. - Elaborar informes de gestión e indicadores (disponibilidad, fallas recurrentes, tiempos de respuesta) y proponer mejoras. · Requisitos: - Título de Técnico/a Electrónico/a, Electromecánico/a o carrera afín. - Experiencia mínima de 3 años en mantenimiento de máquinas slots en casinos o salas de juego. - Experiencia previa coordinando o supervisando personal técnico. - Manejo de electrónica digital, placas, fuentes, periféricos y redes de datos. - Manejo de herramientas informáticas y elaboración de reportes. - Disponibilidad horaria para turnos rotativos, fines de semana y feriados. · Competencias valoradas: - Liderazgo y conducción de equipos técnicos. - Capacidad de diagnóstico y resolución de problemas bajo presión. - Planificación, organización y orientación a resultados. - Comunicación efectiva con áreas operativas y de control. - Alto sentido de responsabilidad, honestidad y confidencialidad. · Ofrecemos: - Incorporación a una empresa consolidada y de reconocida trayectoria. - Posición de responsabilidad con posibilidades de desarrollo profesional. - Excelente ambiente de trabajo. - Condiciones de contratación acordes a la experiencia y las responsabilidades del puesto. · Lugar de trabajo: Cipolletti. Modalidad: Presencial, jornada completa. 8 horas de trabajo en horarios rotativos.-Requerimientos- Educación mínima: Terciario 3 años de experiencia Palabras clave: lider, jefe, gerente, manager, director, chief, lead, jefatura, regente, tecnologo, tecnico, tech, technician, technology, tecnologia, technologist, salesman, saleswoman, seller, vendedor, comercial, salesperson",
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "computrabajo:95477ACCA29DCB3761373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Cipolletti, Río Negro»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "8A70D0E38F985F5861373E686DCF3405",
-    "titulo": "Atencion de cancha de futbol 5 y 6",
-    "empresa": "La Mano de D10S",
-    "ubicacion": "Rosario, Santa Fe",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T13:44:55",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-atencion-de-cancha-de-futbol-5-y-6-turno-noche-en-rosario-8A70D0E38F985F5861373E686DCF3405",
-    "descripcion": "Atención al publico en mostrador, orden y limpieza del lugar, manejo y cierre de caja, control de stock. Se busca personal femenino/masculino con buena presencia, buen trato, puntualidad, honestidad, predisposición a aprender y superarse. Secundaria completa sin excepción. Lugar: Ocampo 6459, Rosario. Zona Oeste. Que tenga la posibilidad de trasladarse al lugar de trabajo sin complicaciones por distancias. Por el momento buscamos cubrir un turno de 4hs de lunes a viernes de 21:00hs a 01:00hs. Estarán a prueba con posibilidad de jornada de 8hs en un futuro cercano. -Requerimientos- Educación mínima: Secundaria 1 año de experiencia Idiomas: Español Edad: entre 20 y 35 años Conocimientos: Honestidad, Puntualidad, Atención al publico, Cierre de caja, Limpieza, Servicio al cliente Palabras clave: care, night, nighttime, nocturno",
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "computrabajo:8A70D0E38F985F5861373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Rosario, Santa Fe»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "BE475753C404E3DB61373E686DCF3405",
-    "titulo": "Analista y Operador/a de Mercado Libre con exp en manejo de tienda",
-    "empresa": "Rhatios",
-    "ubicacion": "Córdoba, Córdoba",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T12:45:22",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-y-operadora-de-mercado-libre-con-exp-en-manejo-de-tienda-presencial-zona-norte-en-cordoba-BE475753C404E3DB61373E686DCF3405",
-    "descripcion": "Desde Consultora RHATIOS nos encontramos en la búsqueda de un/a Analista y Operador/a de Mercado Libre para incorporarse al equipo de una importante empresa comercializadora de equipamiento y tecnología para el sector automotor. Orientamos la búsqueda a personas con experiencia en la gestión de cuentas de Mercado Libre, capacidad analítica y orientación a resultados, que puedan impulsar el crecimiento del canal de ventas mediante la optimización de publicaciones, precios y estrategias comerciales. Principales responsabilidades: Gestionar y optimizar publicaciones en Mercado Libre: títulos, fichas técnicas, atributos, fotografías y catálogo. Analizar precios, márgenes, promociones y estrategias comerciales. Monitorear competidores, tendencias y oportunidades de mercado. Planificar, implementar y optimizar campañas de Mercado Ads. Realizar seguimiento de la reputación de la cuenta, consultas, reclamos y mediaciones. Gestionar stock y coordinar envíos a Mercado Libre Full. Elaborar reportes periódicos sobre ventas, rentabilidad, conversión y rendimiento del canal. Proponer mejoras y acciones para incrementar las ventas y la rentabilidad. Requisitos excluyentes: Experiencia mínima de 2 a 3 años operando cuentas de Mercado Libre. Experiencia en gestión de promociones, precios, cuotas y análisis de márgenes. Manejo avanzado de Excel o Google Sheets (tablas dinámicas, BUSCARV/XLOOKUP y análisis de datos). Se valorará: Experiencia en Mercado Ads y Mercado Envíos Full. Conocimiento de herramientas de análisis como Nubimetrics o Real Trends. Manejo de ERP o integradores de publicaciones. Uso de herramientas de Inteligencia Artificial aplicadas al trabajo. Experiencia en rubros vinculados al sector automotor, herramientas o equipamiento técnico. Formación en Comercialización, Marketing, Administración o carreras afines. Competencias valoradas: Buscamos perfiles con pensamiento analítico, autonomía, orientación a resultados, organización, atención al detalle, iniciativa y facilidad para incorporar nuevas herramientas tecnológicas. Condiciones de contratación: Jornada presencial de lunes a viernes de 9:00 a 18:00 hs y sábados de 9:00 a 13:00 hs. Lugar de trabajo: Córdoba Capital. Almuerzo y obra social. Inducción y capacitación inicial. ¿Te interesa el desafío? Si contás con experiencia en la operación de cuentas de Mercado Libre y querés formar parte de un proyecto en crecimiento, ¡esperamos tu postulación!. -Requerimientos- Educación mínima: Terciario años de experiencia Edad: entre 25 y 40 años Palabras clave: analyst, operator, operario, operator, marketplace, boutique, tienda, store, establecimiento, bazar, bazzar, area",
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "computrabajo:BE475753C404E3DB61373E686DCF3405",
-    "motivos_descarte": [
-      "ventas: «ventas»",
-      "ubicacion fuera de zona: «Córdoba, Córdoba»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4489051614",
-    "titulo": "CRONISTA PARA MITRE INFORMA PRIMERO",
-    "empresa": "Radio Mitre",
-    "ubicacion": "Mendoza y alrededores",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/cronista-para-mitre-informa-primero-at-radio-mitre-4489051614",
-    "descripcion": null,
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "linkedin:4489051614",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Mendoza y alrededores»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4489985454",
-    "titulo": "Pasante Audiovisual",
-    "empresa": "Hospital Privado Universitario de Córdoba",
-    "ubicacion": "Departamento Capital, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/pasante-audiovisual-at-hospital-privado-universitario-de-c%C3%B3rdoba-4489985454",
-    "descripcion": null,
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "linkedin:4489985454",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Departamento Capital, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4488244859",
-    "titulo": "Asesores de Ventas - Zona Norte",
-    "empresa": "CHER.",
-    "ubicacion": "Buenos Aires y alrededores",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/asesores-de-ventas-zona-norte-at-maria-cher-4488244859",
-    "descripcion": null,
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "linkedin:4488244859",
-    "motivos_descarte": [
-      "ventas: «ventas»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4478297660",
-    "titulo": "Asesor inmobiliario",
-    "empresa": "Coldwell Banker",
-    "ubicacion": "Córdoba, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/asesor-inmobiliario-at-coldwell-banker-4478297660",
-    "descripcion": null,
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "linkedin:4478297660",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4488236176",
-    "titulo": "Controlador de pozo",
-    "empresa": "Randstad Argentina",
-    "ubicacion": "San Juan, San Juan, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/controlador-de-pozo-at-randstad-argentina-4488236176",
-    "descripcion": null,
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "linkedin:4488236176",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «San Juan, San Juan, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4489970375",
-    "titulo": "Supervisor de Workover - Neuquén",
-    "empresa": "Serial de la Torre",
-    "ubicacion": "Neuquen, Provincia de Neuquén, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/supervisor-de-workover-neuqu%C3%A9n-at-serial-de-la-torre-4489970375",
-    "descripcion": null,
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "linkedin:4489970375",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Neuquen, Provincia de Neuquén, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4488232765",
-    "titulo": "Operador de Call Center - Part Time (Santa Fe)",
-    "empresa": "Randstad Argentina",
-    "ubicacion": "Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/operador-de-call-center-part-time-santa-fe-at-randstad-argentina-4488232765",
-    "descripcion": null,
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "linkedin:4488232765",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4488267377",
-    "titulo": "Asesor de Cobranzas",
-    "empresa": "PROXIMO",
-    "ubicacion": "Córdoba, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/asesor-de-cobranzas-at-proximo-4488267377",
-    "descripcion": null,
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "linkedin:4488267377",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4488263600",
-    "titulo": "Asesor de Ventas Telefónico",
-    "empresa": "PROXIMO",
-    "ubicacion": "Córdoba, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/asesor-de-ventas-telef%C3%B3nico-at-proximo-4488263600",
-    "descripcion": null,
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "linkedin:4488263600",
-    "motivos_descarte": [
-      "ventas: «ventas»",
-      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4490063008",
-    "titulo": "Operador (a) -Eventual - Villa Gobernador",
-    "empresa": "Cargill",
-    "ubicacion": "Gálvez, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/operador-a-eventual-villa-gobernador-at-cargill-4490063008",
-    "descripcion": null,
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "linkedin:4490063008",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Gálvez, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4489004772",
-    "titulo": "Operador/a Polifuncional",
-    "empresa": "LOMA NEGRA",
-    "ubicacion": "Zapala, Provincia de Neuquén, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/operador-a-polifuncional-at-loma-negra-4489004772",
-    "descripcion": null,
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "linkedin:4489004772",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Zapala, Provincia de Neuquén, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4489007599",
-    "titulo": "Operador/a Polifuncional perfil mecánico",
-    "empresa": "LOMA NEGRA",
-    "ubicacion": "Rivadavia, San Juan, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/operador-a-polifuncional-perfil-mec%C3%A1nico-at-loma-negra-4489007599",
-    "descripcion": null,
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "linkedin:4489007599",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Rivadavia, San Juan, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4489003038",
-    "titulo": "Operario/a de Inyección de Plástico",
-    "empresa": "GEMPLAST ARGENTINA",
-    "ubicacion": "Pérez, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/operario-a-de-inyecci%C3%B3n-de-pl%C3%A1stico-at-gemplast-argentina-4489003038",
-    "descripcion": null,
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "linkedin:4489003038",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Pérez, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4489071171",
-    "titulo": "Proceso selectivo para la cobertura, por personal laboral fijo, de seis plazas de Profesor/a Músico/a, Grupo Profesional III, mediante el sistema de concurso-oposición",
-    "empresa": "Promoción Económica, Turismo y Comercio de Santa Cruz de Tenerife",
-    "ubicacion": "Molino Público, Provincia de Entre Ríos, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-11T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/proceso-selectivo-para-la-cobertura-por-personal-laboral-fijo-de-seis-plazas-de-profesor-a-m%C3%BAsico-a-grupo-profesional-iii-mediante-el-sistema-de-concurso-oposici%C3%B3n-at-promoci%C3%B3n-econ%C3%B3mica-turismo-y-comercio-de-santa-cruz-de-tenerife-4489071171",
-    "descripcion": null,
-    "capturado": "2026-11-12T11:44:36.571440",
-    "id": "linkedin:4489071171",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Molino Público, Provincia de Entre Ríos, Argentina»"
     ]
   }
 ]
