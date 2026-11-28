@@ -1,6 +1,177 @@
 [
   {
     "portal": "linkedin",
+    "portal_id": "4494205363",
+    "titulo": "Community Manager y Paid Media",
+    "empresa": "Colegio Universitario Politécnico",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-28T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/community-manager-y-paid-media-at-colegio-universitario-polit%C3%A9cnico-4494205363",
+    "descripcion": null,
+    "capturado": "2026-11-28T11:37:07.537989",
+    "id": "linkedin:4494205363",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4487336032",
+    "titulo": "Analista Procesos e Innovación Cobranzas",
+    "empresa": "Claro Argentina",
+    "ubicacion": "Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-28T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/analista-procesos-e-innovaci%C3%B3n-cobranzas-at-claro-argentina-4487336032",
+    "descripcion": null,
+    "capturado": "2026-11-28T11:37:07.537989",
+    "id": "linkedin:4487336032",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "bumeran",
+    "portal_id": "2194317",
+    "titulo": "Administrativo/a para Cobertura de Licencia",
+    "empresa": "Ema de constituyentes",
+    "ubicacion": "Capital Federal, Buenos Aires",
+    "modalidad": "presencial",
+    "salario": null,
+    "fecha_publicacion": "2026-11-27T11:25:17",
+    "url": "https://www.bumeran.com.ar/empleos/administrativo-a-para-cobertura-de-licencia-ema-de-constituyentes-2194317.html",
+    "descripcion": "Administrativo/a para Cobertura de LicenciaResumen del puestoBuscamos incorporar un/a Administrativo/a con experiencia para cubrir una licencia por maternidad.Responsabilidades Atención digital a clientes mediante WhatsApp y redes sociales. Atención presencial a clientes: facturación de ventas, gestión de cobros y manejo de grandes volúmenes de efectivo con contadora de billetes. Apertura, arqueo y cierre de caja. Conciliación de datos y detección de inconsistencias en cuentas corrientes, movimientos bancarios y registros internos. Control semanal de inventario en equipo. Soporte al área administrativa y comercial.Requisitos Experiencia comprobable en manejo de dinero y tareas administrativas afines. Manejo de Google Workspace, CRM operativo y WhatsApp Business. Agilidad numérica y capacidad de análisis. Capacidad para gestionar múltiples tareas y establecer prioridades. Atención al detalle y eficiencia operativa. Se valorará experiencia en bebidas o productos de alta rotación, estudios relacionados con el área administrativa y conocimientos en herramientas de Meta.Ubicación: Villa Urquiza, CABA.Horario: Lunes a viernes de 0 8: 0 0 a 1 8: 0 0 hs. y sábados de 0 8: 0 0 a 1 4: 0 0 hs.",
+    "capturado": "2026-11-28T11:37:07.537989",
+    "id": "bumeran:2194317",
+    "motivos_descarte": [
+      "ventas: «ventas»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4494221182",
+    "titulo": "Agente inmobiliario de ventas",
+    "empresa": "OPEN Agencia Inmobiliaria CPI 5205",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-27T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/agente-inmobiliario-de-ventas-4494221182",
+    "descripcion": null,
+    "capturado": "2026-11-28T11:37:07.537989",
+    "id": "linkedin:4494221182",
+    "motivos_descarte": [
+      "ventas: «ventas»",
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4495830637",
+    "titulo": "(fluent English) Customer Support Consultant, fintech (remotely)",
+    "empresa": "SupportYourApp",
+    "ubicacion": "Rosario, Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-27T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/fluent-english-customer-support-consultant-fintech-remotely-at-supportyourapp-4495830637",
+    "descripcion": null,
+    "capturado": "2026-11-28T11:37:07.537989",
+    "id": "linkedin:4495830637",
+    "motivos_descarte": [
+      "ingles_alto: «fluent english»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4495824181",
+    "titulo": "Ingeniero de proyecto - Comandos auxiliares de Proteccion y Control",
+    "empresa": "TTE",
+    "ubicacion": "Córdoba, Córdoba, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-27T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/ingeniero-de-proyecto-comandos-auxiliares-de-proteccion-y-control-at-tubos-trans-electric-4495824181",
+    "descripcion": null,
+    "capturado": "2026-11-28T11:37:07.537989",
+    "id": "linkedin:4495824181",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4493885844",
+    "titulo": "Joint Venture Senior Analyst, Caba. (Advanced English Level)",
+    "empresa": "Adecco",
+    "ubicacion": "Provincia de Buenos Aires, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-27T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/joint-venture-senior-analyst-caba-advanced-english-level-at-adecco-4493885844",
+    "descripcion": null,
+    "capturado": "2026-11-28T11:37:07.537989",
+    "id": "linkedin:4493885844",
+    "motivos_descarte": [
+      "ingles_alto: «advanced english»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4494211712",
+    "titulo": "Operador NOC - Bilingüe",
+    "empresa": "ICS",
+    "ubicacion": "Buenos Aires y alrededores",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-27T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/operador-noc-biling%C3%BCe-at-ics-4494211712",
+    "descripcion": null,
+    "capturado": "2026-11-28T11:37:07.537989",
+    "id": "linkedin:4494211712",
+    "motivos_descarte": [
+      "ingles_alto: «bilingue»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4494209684",
+    "titulo": "Operador NOC Bilingue - Español/Italiano",
+    "empresa": "ICS",
+    "ubicacion": "Buenos Aires y alrededores",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-27T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/operador-noc-bilingue-espa%C3%B1ol-italiano-at-ics-4494209684",
+    "descripcion": null,
+    "capturado": "2026-11-28T11:37:07.537989",
+    "id": "linkedin:4494209684",
+    "motivos_descarte": [
+      "ingles_alto: «bilingue»"
+    ]
+  },
+  {
+    "portal": "linkedin",
+    "portal_id": "4495317041",
+    "titulo": "Operario/Tecnico principal de Turno",
+    "empresa": "GEO SRL",
+    "ubicacion": "Piñero, Santa Fe, Argentina",
+    "modalidad": null,
+    "salario": null,
+    "fecha_publicacion": "2026-11-27T00:00:00",
+    "url": "https://ar.linkedin.com/jobs/view/operario-tecnico-principal-de-turno-4495317041",
+    "descripcion": null,
+    "capturado": "2026-11-28T11:37:07.537989",
+    "id": "linkedin:4495317041",
+    "motivos_descarte": [
+      "ubicacion fuera de zona: «Piñero, Santa Fe, Argentina»"
+    ]
+  },
+  {
+    "portal": "linkedin",
     "portal_id": "4493818791",
     "titulo": "Talent Scout LATAM – Mercado Local",
     "empresa": "Casinoso",
@@ -2639,176 +2810,6 @@
     "id": "linkedin:4490201579",
     "motivos_descarte": [
       "ubicacion fuera de zona: «Ushuaia, Provincia de Tierra del Fuego, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4465113038",
-    "titulo": "Analista QA Atomatización Fintech",
-    "empresa": "Claro Argentina",
-    "ubicacion": "Córdoba, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-14T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/analista-qa-atomatizaci%C3%B3n-fintech-at-claro-argentina-4465113038",
-    "descripcion": null,
-    "capturado": "2026-11-14T11:23:28.376391",
-    "id": "linkedin:4465113038",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "computrabajo",
-    "portal_id": "EA7533CB74CDA0C761373E686DCF3405",
-    "titulo": "Personal de Limpieza Eventual – Cobertura de Vacaciones",
-    "empresa": "Nexo Group",
-    "ubicacion": "Córdoba, Córdoba",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-13T20:23:39",
-    "url": "https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-personal-de-limpieza-eventual-cobertura-de-vacaciones-en-cordoba-EA7533CB74CDA0C761373E686DCF3405",
-    "descripcion": "Nexo Group, empresa de Recursos Humanos con 26 años de trayectoria en el mercado nacional, se encuentra en la búsqueda de Personal de Limpieza para incorporarse de manera eventual, con el objetivo de cubrir licencias por vacaciones. Principales tareas: Limpieza y mantenimiento general de las instalaciones. Higiene y desinfección de espacios comunes, oficinas y sanitarios. Mantenimiento del orden y la limpieza de los sectores asignados. Reposición de insumos de limpieza e higiene. Requisitos: Experiencia previa en tareas de limpieza (preferentemente). Responsabilidad, compromiso y buena predisposición. Disponibilidad para trabajar bajo modalidad eventual. Lugar de trabajo: Centro. Modalidad de contratación: Eventual, por cobertura de vacaciones. Si cumplís con los requisitos y estás interesado/a en la propuesta, ¡te invitamos a postularte!. -Requerimientos- Educación mínima: Secundaria años de experiencia Palabras clave: staff, empleado, trabajador, worker, employee, personal, aseo, higiene, cleaning, limpieza, tourism, viaje, travel, vacaciones, holidays, turistico, tourist, turismo",
-    "capturado": "2026-11-14T11:23:28.376391",
-    "id": "computrabajo:EA7533CB74CDA0C761373E686DCF3405",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Córdoba, Córdoba»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4488984421",
-    "titulo": "CATALOGADOR/A ECOMMERCE",
-    "empresa": "Equipo Vallejo",
-    "ubicacion": "San Juan, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-13T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/catalogador-a-ecommerce-at-equipo-vallejo-4488984421",
-    "descripcion": null,
-    "capturado": "2026-11-14T11:23:28.376391",
-    "id": "linkedin:4488984421",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «San Juan, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4489594227",
-    "titulo": "Bilingual Sales Development Representative - Latin America (Remote Contractor)",
-    "empresa": "Metro Vein Centers",
-    "ubicacion": "Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-13T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/bilingual-sales-development-representative-latin-america-remote-contractor-at-metro-vein-centers-4489594227",
-    "descripcion": null,
-    "capturado": "2026-11-14T11:23:28.376391",
-    "id": "linkedin:4489594227",
-    "motivos_descarte": [
-      "ingles_alto: «bilingual»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4488967519",
-    "titulo": "Ingeniero de producción",
-    "empresa": "YPF SA",
-    "ubicacion": "Provincia de Neuquén, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-13T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/ingeniero-de-producci%C3%B3n-at-ypf-4488967519",
-    "descripcion": null,
-    "capturado": "2026-11-14T11:23:28.376391",
-    "id": "linkedin:4488967519",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Provincia de Neuquén, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4482257368",
-    "titulo": "Representante de Producción de Semillas",
-    "empresa": "Louis Dreyfus Company",
-    "ubicacion": "Villa María, Córdoba, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-13T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/representante-de-producci%C3%B3n-de-semillas-at-louis-dreyfus-company-4482257368",
-    "descripcion": null,
-    "capturado": "2026-11-14T11:23:28.376391",
-    "id": "linkedin:4482257368",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Villa María, Córdoba, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4490701956",
-    "titulo": "Técnico/a de Soporte Ssr en Neuquen",
-    "empresa": "SONDA",
-    "ubicacion": "Neuquen, Provincia de Neuquén, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-13T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/t%C3%A9cnico-a-de-soporte-ssr-en-neuquen-at-sonda-4490701956",
-    "descripcion": null,
-    "capturado": "2026-11-14T11:23:28.376391",
-    "id": "linkedin:4490701956",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Neuquen, Provincia de Neuquén, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4489534237",
-    "titulo": "Postdoctoral Training Program in Intellectual and Developmental Disabilities Research",
-    "empresa": "DiverseScholar",
-    "ubicacion": "Hughes, Santa Fe, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-13T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/postdoctoral-training-program-in-intellectual-and-developmental-disabilities-research-at-diversescholar-4489534237",
-    "descripcion": null,
-    "capturado": "2026-11-14T11:23:28.376391",
-    "id": "linkedin:4489534237",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Hughes, Santa Fe, Argentina»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4490797526",
-    "titulo": "Bilingual Snowflake Developer - Remote",
-    "empresa": "Fast Dolphin",
-    "ubicacion": "Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-13T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/bilingual-snowflake-developer-remote-at-fast-dolphin-4490797526",
-    "descripcion": null,
-    "capturado": "2026-11-14T11:23:28.376391",
-    "id": "linkedin:4490797526",
-    "motivos_descarte": [
-      "ingles_alto: «bilingual»"
-    ]
-  },
-  {
-    "portal": "linkedin",
-    "portal_id": "4488993772",
-    "titulo": "Profesores Ed. Fisica p/ Sala Musc. -  Mar del Plata",
-    "empresa": "Megatlon",
-    "ubicacion": "Mar del Plata, Provincia de Buenos Aires, Argentina",
-    "modalidad": null,
-    "salario": null,
-    "fecha_publicacion": "2026-11-13T00:00:00",
-    "url": "https://ar.linkedin.com/jobs/view/profesores-ed-fisica-p-sala-musc-mar-del-plata-at-megatlon-4488993772",
-    "descripcion": null,
-    "capturado": "2026-11-14T11:23:28.376391",
-    "id": "linkedin:4488993772",
-    "motivos_descarte": [
-      "ubicacion fuera de zona: «Mar del Plata, Provincia de Buenos Aires, Argentina»"
     ]
   }
 ]
